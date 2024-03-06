@@ -1,11 +1,11 @@
-# Data Analyst Portifolio 
+# Portifolio 
 
 ### Technical Skills: Python, SQL, Tableau
 
 ## Education
-#### Data Analyst Specialization, IBM (2023)
-#### M.Sc. Biology/Bioscience, University of Oslo (2021)
-#### B.Sc. Biology, University of Oslo 
+##### Data Analyst Specialization, IBM (2023)
+##### M.Sc. Biology/Bioscience, University of Oslo (2021)
+##### B.Sc. Biology, University of Oslo 
  
 
 ## Work Experience
@@ -25,4 +25,4 @@ Training students in the lab and assisting in various issues ranging from person
 Consultant for the international student study “Trends in International Mathematics and Science Study” in Norway. Logistics and conduction of the study. 
 
 ## Projects
-**HALLO**
+**[SQL Famous Paintings](https://github.com/ToriiX/SQL-Art_Paintings)https://github.com/ToriiX/SQL-Art_Paintings**
