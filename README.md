@@ -27,12 +27,21 @@ Consultant for the international student study “Trends in International Mathem
 ## Data Analysis Projects
 ### SQL:
 ### "Famous paintings" dataset 
-- Explored data on famous paintings to get insights
+- Imported the data from tables to MySQL database using Python
+- Joined tables and explored data on famous paintings to get insights using MySQL
 #### See project and code: **https://github.com/ToriiX/SQL-Art_Paintings]https://github.com/ToriiX/SQL-Art_Paintings**
 
 ### Python:
 ### IUCN Red List  
--  An analysis -Incl. bar plots, correlation analyses, and visualizations
+- An analysis of the IUCN Red List
+- Incl. bar plots, correlation analyses, and visualizations
 #### See project and code: **https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/README.md**
+
+### Iris Dataset
+- An exploratory analysis of morphological and environmental data of three species of Iris
+- Use of various visualization plots including heatmap, violin plot, bar plots, boxplots, KDE plot
+- PCA analyses
+
+#### See project and code: **https://github.com/ToriiX/Iris__dataset_EDA/blob/main/Iris_extended_dataset_EDA_PCA_analysis.ipynb**
 
 
