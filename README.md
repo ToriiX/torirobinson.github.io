@@ -3,9 +3,9 @@
 ### Technical Skills: Python, SQL, Tableau
 
 ## Education
-##### Data Analyst Specialization, IBM (2023)
-##### M.Sc. Biology/Bioscience, University of Oslo (2021)
-##### B.Sc. Biology, University of Oslo 
+- ##### Data Analyst Specialization, IBM (2023)
+- ##### M.Sc. Biology/Bioscience, University of Oslo (2021)
+- ##### B.Sc. Biology, University of Oslo 
  
 
 ## Work Experience
@@ -28,9 +28,9 @@ Consultant for the international student study “Trends in International Mathem
 ### SQL:
 ### Explored the "Famous paintings" dataset (Kaggle.com)
 - Analysed datasets on famous paintings 
-# **[SQL Famous Paintings](https://github.com/ToriiX/SQL-Art_Paintings)https://github.com/ToriiX/SQL-Art_Paintings**
+#### **[SQL Famous Paintings](https://github.com/ToriiX/SQL-Art_Paintings)https://github.com/ToriiX/SQL-Art_Paintings**
 
 ### Python:
 ### IUCN Red List - An analysis (https://www.iucnredlist.org/)
 - Incl. bar plots, correlation analyses, and visualizations
-# **https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/README.md**
+#### **https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/README.md**
