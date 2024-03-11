@@ -25,5 +25,12 @@ Training students in the lab and assisting in various issues ranging from person
 Consultant for the international student study “Trends in International Mathematics and Science Study” in Norway. Logistics and conduction of the study. 
 
 ## Projects
-**[SQL Famous Paintings](https://github.com/ToriiX/SQL-Art_Paintings)https://github.com/ToriiX/SQL-Art_Paintings**
-**https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/README.md**
+### SQL:
+### Explored the "Famous paintings" dataset (Kaggle.com)
+- Analysed datasets on famous paintings 
+# **[SQL Famous Paintings](https://github.com/ToriiX/SQL-Art_Paintings)https://github.com/ToriiX/SQL-Art_Paintings**
+
+### Python:
+### IUCN Red List - An analysis (https://www.iucnredlist.org/)
+- Incl. bar plots, correlation analyses, and visualizations
+# **https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/README.md**
