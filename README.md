@@ -24,7 +24,7 @@ Training students in the lab and assisting in various issues ranging from person
 #### Consultant @ Dept. of Teacher Edu. and School Research, 2019
 Consultant for the international student study “Trends in International Mathematics and Science Study” in Norway. Logistics and conduction of the study. 
 
-## Projects
+## Data Analysis Projects
 ### SQL:
 ### "Famous paintings" dataset (Kaggle.com)
 - Explored data on famous paintings 
