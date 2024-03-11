@@ -26,11 +26,11 @@ Consultant for the international student study “Trends in International Mathem
 
 ## Projects
 ### SQL:
-### Explored the "Famous paintings" dataset (Kaggle.com)
-- Analysed datasets on famous paintings 
+### "Famous paintings" dataset (Kaggle.com)
+- Explored data on famous paintings 
 #### **[SQL Famous Paintings](https://github.com/ToriiX/SQL-Art_Paintings)https://github.com/ToriiX/SQL-Art_Paintings**
 
 ### Python:
-### IUCN Red List - An analysis (https://www.iucnredlist.org/)
+### See project and code: IUCN Red List - An analysis (https://www.iucnredlist.org/)
 - Incl. bar plots, correlation analyses, and visualizations
-#### **https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/README.md**
+#### See project and code: **https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/README.md**
