@@ -27,7 +27,7 @@ Consultant for the international student study “Trends in International Mathem
 ## Data Analysis Projects
 ### SQL:
 ### "Famous paintings" dataset 
-- Explored data on famous paintings 
+- Explored data on famous paintings to get insights
 #### See project and code: **https://github.com/ToriiX/SQL-Art_Paintings]https://github.com/ToriiX/SQL-Art_Paintings**
 
 ### Python:
