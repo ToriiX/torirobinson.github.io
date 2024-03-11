@@ -34,7 +34,7 @@ Consultant for the international student study “Trends in International Mathem
 ### Python:
 ### IUCN Red List  
 - An analysis of the IUCN Red List. Data is original and downloaded directly from the source.
-- Incl. bar plots, correlation analyses, and visualizations
+- Includes bar plots, correlation analyses, and visualizations
 #### See project and code: **https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/README.md**
 
 ### Iris Dataset
@@ -46,8 +46,8 @@ Consultant for the international student study “Trends in International Mathem
 
 ### Global Air Pollution
 - An exploratory analysis of global air pollution data. Data downloaded from the World Health Organization.
-- 
+- Includes line plots (timelines) and various plot types. 
 
-https://github.com/ToriiX/AirPollutionEDA/blob/main/GlobalAirPollution(WHO)_analysis.ipynb
+#### See project and code: **https://github.com/ToriiX/AirPollutionEDA/blob/main/GlobalAirPollution-WHO.ipynb**
 
 
