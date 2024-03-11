@@ -29,7 +29,7 @@ Consultant for the international student study “Trends in International Mathem
 ### "Famous paintings" dataset 
 - Imported tables to MySQL database using Python
 - Joined tables and explored data on famous paintings using MySQL
-#### See project and code: **https://github.com/ToriiX/SQL-Art_Paintings]https://github.com/ToriiX/SQL-Art_Paintings**
+#### See project and code: **https://github.com/ToriiX/SQL-Art_Paintings**
 
 ### Python:
 ### IUCN Red List  
