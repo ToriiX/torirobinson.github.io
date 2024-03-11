@@ -31,8 +31,8 @@ Consultant for the international student study “Trends in International Mathem
 #### See project and code: **https://github.com/ToriiX/SQL-Art_Paintings]https://github.com/ToriiX/SQL-Art_Paintings**
 
 ### Python:
-### IUCN Red List - An analysis 
-- Incl. bar plots, correlation analyses, and visualizations
+### IUCN Red List  
+-  An analysis -Incl. bar plots, correlation analyses, and visualizations
 #### See project and code: **https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/README.md**
 
 
