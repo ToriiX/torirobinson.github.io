@@ -50,4 +50,9 @@ Consultant for the international student study “Trends in International Mathem
 
 #### See project and code: **https://github.com/ToriiX/AirPollutionEDA/blob/main/GlobalAirPollution-WHO.ipynb**
 
+### Scientific sampling map of Kenya
+- Map containing data sampling locations and flora regions for use in a scientific paper
+
+#### See maps and code: https://github.com/ToriiX/Maps/blob/main/map_test.ipynb
+
 
