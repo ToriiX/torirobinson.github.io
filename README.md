@@ -1,4 +1,4 @@
-# Portifolio 
+# Portfolio 
 
 ### Technical Skills: Python, SQL, Tableau
 
