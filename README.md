@@ -39,7 +39,7 @@
 
 **Data source:** Data downloaded from the World Health Organization.
   
-**Skills:** Python, Data Preparation, Data Analysis. Visualizations ( Including timelines, combined horizontal barplot, histograms, boxplots. correlation matrix and reg. plot)  
+**Skills:** Python, Data Preparation, Data Analysis. Visualizations (Including timelines, combined horizontal barplot, histograms, boxplots. correlation matrix and reg. plot)  
 ###### See project and code: [WHO Global Air Pollution Data code](https://github.com/ToriiX/AirPollutionEDA/blob/main/Global_Air_Pollution_WHO.ipynb)
 
 
