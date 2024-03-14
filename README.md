@@ -1,6 +1,8 @@
 # Portfolio 
 
 ### Technical Skills: Python, SQL, Tableau
+.
+.
 
 ## Education
 - ##### Certificate, Data Analyst Specialization, IBM (2023)
