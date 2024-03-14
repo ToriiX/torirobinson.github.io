@@ -10,7 +10,7 @@
 
 
 ## Data Analysis Projects
-- All projects are original
+**All projects are original**
 
 ### SQL:
 #### Famous paintings
