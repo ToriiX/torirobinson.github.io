@@ -41,7 +41,7 @@
 
 ###### See project and code: [Iris Data Exploration code and insights](https://github.com/ToriiX/Iris__dataset_EDA/blob/main/Iris_extended_dataset_EDA_PCA_analysis.ipynb)
 
-#### Global Air Pollution
+###### Global Air Pollution
 **Goal:** Explore the WHO's Global Air Pollution data to create an overall picture of the data and what the data tells us. 
 
 **I looked at:**
@@ -58,12 +58,14 @@
 
 #### Scientific Figures:
 ***Sampling map of Kenya*** 
+
 **Goal:** Create a customized map containing data sampling locations and flora regions for use in a scientific paper
 
 **Skills:** Loading data locations into maps, map layers, various parameters and visuals 
 ##### See maps and code: [Sampling Maps](https://github.com/ToriiX/Maps/blob/main/kenya_maps.ipynb)
 
 ***Barplot for Questionaire*** 
+
 **Goal:** Create a Figure showing the results from a questionnaire for use in a scientific paper
 
 **Skills:** Figure customization
