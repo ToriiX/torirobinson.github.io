@@ -17,8 +17,8 @@
 Goal: Practice my SQL skills.
 - Imported tables to MySQL database using Python
 - Joined tables and explored data on famous paintings using MySQL
-########### Data source: Kaggle.com.
-########### Skills: Loading data tables into a database in mySQL, Joining tables, Selecting specific information, Formulas(sum, average etc.)
+####### Data source: Kaggle.com.
+####### Skills: Loading data tables into a database in mySQL, Joining tables, Selecting specific information, Formulas(sum, average etc.)
 ###### See project and code: https://github.com/ToriiX/SQL-Art_Paintings
 
 ### Python:
