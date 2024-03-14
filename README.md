@@ -16,16 +16,6 @@
 *All projects are original*
 
 
-### Famous paintings
-**Goal:** Practice my SQL skills.
-- Imported tables to MySQL database using Python
-- Joined tables and explored data on famous paintings using MySQL
-  
-**Data source:** Kaggle.com.
-  
-**Skills:** Loading data tables into a database in mySQL using Python, SQL (Joining tables, Selecting specific information, Formulas(sum, average etc.))
-###### See project and code: [Art Paintings insights and code](https://github.com/ToriiX/SQL-Art_Paintings)
-
 ### IUCN Red List  
 **Goal:** To investigate the overall comprehensiveness of the Red List, and if there are considerations that need to be taken if using the list as a guideline for wildlife conservation actions and measures.
 
@@ -51,6 +41,18 @@
   
 **Skills:** Python, Data Preparation, Data Analysis. Visualizations ( Including timelines, combined horizontal barplot, histograms, boxplots. correlation matrix and reg. plot)  
 ###### See project and code: [WHO Global Air Pollution Data code](https://github.com/ToriiX/AirPollutionEDA/blob/main/Global_Air_Pollution_WHO.ipynb)
+
+
+### Famous paintings
+**Goal:** Practice my SQL skills.
+- Imported tables to MySQL database using Python
+- Joined tables and explored data on famous paintings using MySQL
+  
+**Data source:** Kaggle.com.
+  
+**Skills:** Loading data tables into a database in mySQL using Python, SQL (Joining tables, Selecting specific information, Formulas(sum, average etc.))
+###### See project and code: [Art Paintings insights and code](https://github.com/ToriiX/SQL-Art_Paintings)
+
 
 ### Scientific Figures:
 ***Sampling map of Kenya*** 
