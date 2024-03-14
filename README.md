@@ -30,7 +30,7 @@
 
 **Data source:** Kaggle.com
 
-**Skills:** Python, Data preparation, Data Analyses, Correlation Matrices, and various Visualizations (including heatmap, violin plot, bar plots, boxplots, KDE plot) and PCA.
+**Skills:** Python, Data preparation, Data Analysis, Correlation Matrices, and various Visualizations (including heatmap, violin plot, bar plots, boxplots, KDE plot) and PCA.
 
 ###### See project and code: [Iris Data Exploration code and insights](https://github.com/ToriiX/Iris__dataset_EDA/blob/main/Iris_extended_dataset_EDA_PCA_analysis.ipynb)
 
@@ -44,7 +44,7 @@
 
 
 ### Famous paintings
-**Goal:** Practice my SQL skills.
+**Goal:** Explore the data and find insights while practising my SQL skills.
 - Imported tables to MySQL database using Python
 - Joined tables and explored data on famous paintings using MySQL
   
