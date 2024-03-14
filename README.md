@@ -42,16 +42,8 @@
 ###### See project and code: [Iris Data Exploration code and insights](https://github.com/ToriiX/Iris__dataset_EDA/blob/main/Iris_extended_dataset_EDA_PCA_analysis.ipynb)
 
 ### Global Air Pollution
-**Goal:** Explore the WHO's Global Air Pollution data to create an overall picture of the data and what the data tells us. 
+**Goal:** Explore the WHO's Global Air Pollution data to create an overview of the data and what the data tells us. 
 
-**I looked at:**
-- Where and when most of the data were collected
-- The timeline development of the concentration of the different pollutants
-- Distribution of measurement concentrations
-- Correlation between the concentration of the different pollutants
-- Regional concentrations and regional time-line development of the pollutants
-- The 10 cities which had the highest average concentrations of the different pollutants
-  
 **Data source:** Data downloaded from the World Health Organization.
   
 **Skills:** Python, Data Preparation, Data Analysis. Visualizations ( Including timelines, combined horizontal barplot, histograms, boxplots. correlation matrix and reg. plot)  
