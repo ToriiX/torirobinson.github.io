@@ -12,36 +12,35 @@
 ## Data Analysis Projects
 *All projects are original*
 
-### SQL:
-#### Famous paintings
+
+### Famous paintings
 **Goal:** Practice my SQL skills.
 - Imported tables to MySQL database using Python
 - Joined tables and explored data on famous paintings using MySQL
 **Data source:** Kaggle.com.
   
-**Skills:** Loading data tables into a database in mySQL, Joining tables, Selecting specific information, Formulas(sum, average etc.)
+**Skills:** Loading data tables into a database in mySQL using Python, SQL (Joining tables, Selecting specific information, Formulas(sum, average etc.))
 ###### See project and code: [Art Paintings insights and code](https://github.com/ToriiX/SQL-Art_Paintings)
 
-### Python:
-#### IUCN Red List  
+### IUCN Red List  
 **Goal:** To investigate the overall comprehensiveness of the Red List, and if there are considerations that need to be taken if using the list as a guideline for wildlife conservation actions and measures.
 
 **Data source:** Data is original and downloaded directly from the primary source.
 
-**Skills:** Data Preparation and Manipulation, Data Analysis including Correlation Analysis, Customized Data Visualization.
+**Skills:** Python, Data Preparation and Manipulation, Data Analysis including Correlation Analysis, Customized Data Visualization.
 ###### See project and code: [IUCN Red List Assessment code and insights](https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/The_Red_List_Analysis.ipynb)
 
 
-#### Iris Dataset
+### Iris Dataset
 **Goal:** Explore species feature variation within (intra) and between (inter) three species of Iris found in North America. The results can be used for species classification and further development of Machine Learning models for classification.
 
 **Data source:** Kaggle.com
 
-**Skills:**  Data preparation, Data Analyses, Correlation Matrices, and various Visualizations (including heatmap, violin plot, bar plots, boxplots, KDE plot) and PCA.
+**Skills:** Python, Data preparation, Data Analyses, Correlation Matrices, and various Visualizations (including heatmap, violin plot, bar plots, boxplots, KDE plot) and PCA.
 
 ###### See project and code: [Iris Data Exploration code and insights](https://github.com/ToriiX/Iris__dataset_EDA/blob/main/Iris_extended_dataset_EDA_PCA_analysis.ipynb)
 
-#### Global Air Pollution
+### Global Air Pollution
 **Goal:** Explore the WHO's Global Air Pollution data to create an overall picture of the data and what the data tells us. 
 
 **I looked at:**
@@ -53,22 +52,22 @@
 - The 10 cities which had the highest average concentrations of the different pollutants
 **Data source:** Data downloaded from the World Health Organization.
   
-**Skills:** Data preparation, Data Analysis. Visualizations ( Including timelines, combined horizontal barplot, histograms, boxplots. correlation matrix and reg. plot)  
+**Skills:** Python, Data Preparation, Data Analysis. Visualizations ( Including timelines, combined horizontal barplot, histograms, boxplots. correlation matrix and reg. plot)  
 ###### See project and code: [WHO Global Air Pollution Data code](https://github.com/ToriiX/AirPollutionEDA/blob/main/Global_Air_Pollution_WHO.ipynb)
 
-#### Scientific Figures:
+### Scientific Figures:
 ***Sampling map of Kenya*** 
 
 **Goal:** Create a customized map containing data sampling locations and flora regions for use in a scientific paper
 
-**Skills:** Loading data locations into maps, map layers, various parameters and visuals 
+**Skills:** Python, Loading data locations into maps, Figure Layers, various Parameters and Visuals 
 ##### See maps and code: [Sampling Maps](https://github.com/ToriiX/Maps/blob/main/kenya_maps.ipynb)
 
 ***Barplot for Questionaire*** 
 
 **Goal:** Create a Figure showing the results from a questionnaire for use in a scientific paper
 
-**Skills:** Figure customization
+**Skills:** Python, Figure Customization
 ###### See figure and code: [Barplots](https://github.com/ToriiX/Maps/blob/main/kenya_barplot.ipynb)
 
 
