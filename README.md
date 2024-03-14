@@ -35,7 +35,7 @@
 ###### See project and code: [Iris Data Exploration code and insights](https://github.com/ToriiX/Iris__dataset_EDA/blob/main/Iris_extended_dataset_EDA_PCA_analysis.ipynb)
 
 ### Global Air Pollution
-**Goal:** Explore the WHO's Global Air Pollution data to create an overview of the data and what the data tells us. 
+**Goal:** Explore the WHO's Global Air Pollution Data to create an overview of its sources, geographical regions, time development, and the regions/cities most affected by pollution. 
 
 **Data source:** Data downloaded from the World Health Organization.
   
