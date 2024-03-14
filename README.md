@@ -17,7 +17,7 @@
 **Goal:** Practice my SQL skills.
 - Imported tables to MySQL database using Python
 - Joined tables and explored data on famous paintings using MySQL
-- 
+  
 **Data source:** Kaggle.com.
   
 **Skills:** Loading data tables into a database in mySQL using Python, SQL (Joining tables, Selecting specific information, Formulas(sum, average etc.))
