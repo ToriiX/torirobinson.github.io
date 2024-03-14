@@ -17,6 +17,7 @@
 **Goal:** Practice my SQL skills.
 - Imported tables to MySQL database using Python
 - Joined tables and explored data on famous paintings using MySQL
+- 
 **Data source:** Kaggle.com.
   
 **Skills:** Loading data tables into a database in mySQL using Python, SQL (Joining tables, Selecting specific information, Formulas(sum, average etc.))
@@ -50,6 +51,7 @@
 - Correlation between the concentration of the different pollutants
 - Regional concentrations and regional time-line development of the pollutants
 - The 10 cities which had the highest average concentrations of the different pollutants
+  
 **Data source:** Data downloaded from the World Health Organization.
   
 **Skills:** Python, Data Preparation, Data Analysis. Visualizations ( Including timelines, combined horizontal barplot, histograms, boxplots. correlation matrix and reg. plot)  
