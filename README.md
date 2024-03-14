@@ -34,12 +34,16 @@
 
 #### Iris Dataset
 **Goal:** Explore species feature variation within (intra) and between (inter) three species of Iris found in North America. The results can be used for species classification and further development of Machine Learning models for classification.
+
 **Data source:** Kaggle.com
-**Skills:**  Data preparation, Data Analyses, Correlation Matrices, and various Visualizations (including heatmap, violin plot, bar plots, boxplots, KDE plot), PCA.
+
+**Skills:**  Data preparation, Data Analyses, Correlation Matrices, and various Visualizations (including heatmap, violin plot, bar plots, boxplots, KDE plot) and PCA.
+
 ###### See project and code: [Iris Data Exploration code and insights](https://github.com/ToriiX/Iris__dataset_EDA/blob/main/Iris_extended_dataset_EDA_PCA_analysis.ipynb)
 
 #### Global Air Pollution
 **Goal:** Explore the WHO's Global Air Pollution data to create an overall picture of the data and what the data tells us. 
+
 **I looked at:**
 - Where and when most of the data were collected
 - The timeline development of the concentration of the different pollutants
@@ -48,17 +52,20 @@
 - Regional concentrations and regional time-line development of the pollutants
 - The 10 cities which had the highest average concentrations of the different pollutants
 **Data source:** Data downloaded from the World Health Organization.
+  
 **Skills:** Data preparation, Data Analysis. Visualizations ( Including timelines, combined horizontal barplot, histograms, boxplots. correlation matrix and reg. plot)  
 ###### See project and code: [WHO Global Air Pollution Data code](https://github.com/ToriiX/AirPollutionEDA/blob/main/Global_Air_Pollution_WHO.ipynb)
 
 #### Scientific Figures:
 ##### Sampling map of Kenya
 **Goal:** Create a customized map containing data sampling locations and flora regions for use in a scientific paper
+
 **Skills:** Loading data locations into maps, map layers, various parameters and visuals 
 ##### See maps and code: [Sampling Maps](https://github.com/ToriiX/Maps/blob/main/kenya_maps.ipynb)
 
 ##### Barplot for Questionaire 
 **Goal:** Create a Figure showing the results from a questionnaire for use in a scientific paper
+
 **Skills:** Figure customization
 ###### See figure and code: [Barplots](https://github.com/ToriiX/Maps/blob/main/kenya_barplot.ipynb)
 
