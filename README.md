@@ -41,7 +41,7 @@
 
 ###### See project and code: [Iris Data Exploration code and insights](https://github.com/ToriiX/Iris__dataset_EDA/blob/main/Iris_extended_dataset_EDA_PCA_analysis.ipynb)
 
-###### Global Air Pollution
+#### Global Air Pollution
 **Goal:** Explore the WHO's Global Air Pollution data to create an overall picture of the data and what the data tells us. 
 
 **I looked at:**
