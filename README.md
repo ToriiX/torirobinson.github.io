@@ -7,7 +7,8 @@
 - ##### M.Sc. Biology/Bioscience, University of Oslo (2021)
 - ##### B.Sc. Biology, University of Oslo 
  
-
+.
+.
 
 ## Data Analysis Projects
 *All projects are original*
