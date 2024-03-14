@@ -73,7 +73,8 @@
 
 
 
-
+.
+.
 ## Work Experience
 
 #### Tech and DNA support @ MyHeritage, TLV, Israel, 2022- 2023                                                                                                    
