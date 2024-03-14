@@ -13,7 +13,7 @@
 - All projects are original
 
 ### SQL:
-#### "Famous paintings" dataset 
+#### Famous paintings
 **Goal:** Practice my SQL skills.
 - Imported tables to MySQL database using Python
 - Joined tables and explored data on famous paintings using MySQL
@@ -57,17 +57,20 @@
 ###### See project and code: [WHO Global Air Pollution Data code](https://github.com/ToriiX/AirPollutionEDA/blob/main/Global_Air_Pollution_WHO.ipynb)
 
 #### Scientific Figures:
-##### Sampling map of Kenya
+***Sampling map of Kenya*** 
 **Goal:** Create a customized map containing data sampling locations and flora regions for use in a scientific paper
 
 **Skills:** Loading data locations into maps, map layers, various parameters and visuals 
 ##### See maps and code: [Sampling Maps](https://github.com/ToriiX/Maps/blob/main/kenya_maps.ipynb)
 
-##### Barplot for Questionaire 
+***Barplot for Questionaire*** 
 **Goal:** Create a Figure showing the results from a questionnaire for use in a scientific paper
 
 **Skills:** Figure customization
 ###### See figure and code: [Barplots](https://github.com/ToriiX/Maps/blob/main/kenya_barplot.ipynb)
+
+
+
 
 
 ## Work Experience
