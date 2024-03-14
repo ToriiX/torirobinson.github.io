@@ -18,13 +18,16 @@
 - Imported tables to MySQL database using Python
 - Joined tables and explored data on famous paintings using MySQL
 **Data source:** Kaggle.com.
+  
 **Skills:** Loading data tables into a database in mySQL, Joining tables, Selecting specific information, Formulas(sum, average etc.)
 ###### See project and code: [Art Paintings insights and code](https://github.com/ToriiX/SQL-Art_Paintings)
 
 ### Python:
 #### IUCN Red List  
 **Goal:** To investigate the overall comprehensiveness of the Red List, and if there are considerations that need to be taken if using the list as a guideline for wildlife conservation actions and measures.
+
 **Data source:** Data is original and downloaded directly from the primary source.
+
 **Skills:** Data Preparation and Manipulation, Data Analysis including Correlation Analysis, Customized Data Visualization.
 ###### See project and code: [IUCN Red List Assessment code and insights](https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/The_Red_List_Analysis.ipynb)
 
