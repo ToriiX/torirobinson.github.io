@@ -10,49 +10,54 @@
 
 
 ## Data Analysis Projects
+- All projects are original
+- 
 ### SQL:
 #### "Famous paintings" dataset 
+Goal: Practice my SQL skills
 - Imported tables to MySQL database using Python
 - Joined tables and explored data on famous paintings using MySQL
-##### See project and code: **https://github.com/ToriiX/SQL-Art_Paintings**
+- Data source: Kaggle.com
+Skills: Loading data tables into a database in mySQL, Joining tables, Selecting specific information, Formulas(sum, average etc.)
+###### See project and code: **https://github.com/ToriiX/SQL-Art_Paintings**
 
 ### Python:
 #### IUCN Red List  
-- An analysis of the IUCN Red List. Data is original and downloaded directly from the source.
-- Includes bar plots, correlation analyses, and visualizations
-##### See project and code: **![image](https://github.com/ToriiX/torirobinson.github.io/assets/156717220/2115606c-6fed-419a-a198-082ddffc8d44)
-**
+Goal: In this project, I wanted to investigate the overall comprehensiveness of the Red List, and if there are considerations that need to be taken if using the list as a guideline for wildlife conservation actions and measures.
+Data source: Data is original and downloaded directly from the primary source.
+Skills: data preparation and manipulation, data analysis including correlation analysis, customized data visualization.
+###### See project and code: [https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/The_Red_List_Analysis.ipynb]
+
 
 #### Iris Dataset
-- An exploratory analysis of morphological and environmental data of three species of Iris
-- Use of various visualization plots including heatmap, violin plot, bar plots, boxplots, KDE plot
-- PCA analyses
-
-##### See project and code: **https://github.com/ToriiX/Iris__dataset_EDA/blob/main/Iris_extended_dataset_EDA_PCA_analysis.ipynb**
+Goal: Explore species feature variation within (intra) and between (inter) three species of Iris found in North America. The results can be used for species classification and further development of Machine Learning models for classification.
+Data source: Kaggle.com
+Skills: Data preparation, Data Analyses, Correlation Matrices, and various Visualizations (including heatmap, violin plot, bar plots, boxplots, KDE plot), PCA.
+###### See project and code: [https://github.com/ToriiX/Iris__dataset_EDA/blob/main/Iris_extended_dataset_EDA_PCA_analysis.ipynb]
 
 #### Global Air Pollution
-An exploratory analysis of global air pollution data. Data downloaded from the World Health Organization.
-#### Data preparation, analysis and visualizations
-
-  I looked at:
+Goal: To explore the WHO's Global Air Pollution data to create an overall picture of the data and what the data tells us. 
+I looked at:
 - Where and when most of the data were collected
 - The timeline development of the concentration of the different pollutants
 - Distribution of measurement concentrations
 - Correlation between the concentration of the different pollutants
 - Regional concentrations and regional time-line development of the pollutants
 - The 10 cities which had the highest average concentrations of the different pollutants
- 
-##### See project and code: [**https://github.com/ToriiX/AirPollutionEDA/blob/main/Global_Air_Pollution_WHO.ipynb**]
+Data source: Data downloaded from the World Health Organization.
+Skills: Data preparation, Data Analysis. Visualizations ( Including timelines, combined horizontal barplot, histograms, boxplots. correlation matrix and reg. plot)  
+###### See project and code: [https://github.com/ToriiX/AirPollutionEDA/blob/main/Global_Air_Pollution_WHO.ipynb]
 
 #### Scientific figures:
 ##### Sampling map of Kenya
-- Map containing data sampling locations and flora regions for use in a scientific paper
-
-##### See maps and code: [**https://github.com/ToriiX/Maps/blob/main/kenya_maps.ipynb](https://github.com/ToriiX/Maps/blob/main/kenya_maps.ipynb)https://github.com/ToriiX/Maps/blob/main/kenya_maps.ipynb**]
+Goal: Create a customized map containing data sampling locations and flora regions for use in a scientific paper
+Skills: Loading data locations into maps, map layers, various parameters and visuals 
+##### See maps and code: [https://github.com/ToriiX/Maps/blob/main/kenya_maps.ipynb]
 
 ##### Barplot, questionaire 
-- Figure showing the results from a questionnaire 
-##### See figure and code: [** https://github.com/ToriiX/Maps/blob/main/kenya_barplot.ipynb**]
+Goal: Create a Figure showing the results from a questionnaire for use in a scientific paper
+Skills: Figure customization
+###### See figure and code: [https://github.com/ToriiX/Maps/blob/main/kenya_barplot.ipynb]
 
 
 ## Work Experience
