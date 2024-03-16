@@ -2,14 +2,11 @@
 
 ### Technical Skills: Python, SQL, Tableau
 .
-.
-
 ## Education
 - ##### Certificate, Data Analyst Specialization, IBM (2023)
 - ##### M.Sc. Biology/Bioscience, University of Oslo (2021)
 - ##### B.Sc. Biology, University of Oslo 
  
-.
 .
 
 ## Data Analysis Projects
@@ -73,14 +70,13 @@
 
 
 .
-.
 ## Work Experience
 
 #### Tech and DNA support @ MyHeritage, TLV, Israel, 2022- 2023                                                                                                    
 Supporting customers with queries, DNA-testing and results, and use of the company’s genealogy platforms (web, desktop software, mobile app). 
 Troubleshooting and attention to detail. Communication in English and Scandinavian languages over email and phone.  
 
-#### Business assistant and marked consultant @ Lion Healthcare Europe AS, Norway, 2019-2021                                                                      
+#### Business assistant and market consultant @ Lion Healthcare Europe AS, Norway, 2019-2021                                                                      
 Market research, promotion and sales of healthcare products. 
 Assisting in meetings, mail correspondence, building and maintaining client relations. 
 
