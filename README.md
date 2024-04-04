@@ -2,11 +2,9 @@
 
 ### Technical Skills: Python, SQL, Tableau
 .
-## Education
 - ##### Certificate, Data Analyst Specialization, IBM (2023)
 - ##### M.Sc. Biology/Bioscience, University of Oslo (2021)
-- ##### B.Sc. Biology, University of Oslo 
- 
+
 .
 
 ## Data Analysis Projects
@@ -36,8 +34,8 @@
 
 **Data source:** Data downloaded from the World Health Organization.
   
-**Skills:** Python, Data Preparation, Data Analysis. Visualizations (Including timelines, combined horizontal barplot, histograms, boxplots. correlation matrix and reg. plot)  
-###### See project and code: [WHO Global Air Pollution Data code](https://github.com/ToriiX/AirPollutionEDA/blob/main/Global_Air_Pollution_WHO.ipynb)
+**Skills:** Python, Data Preparation, Data Analysis. Visualizations (Including timelines, combined horizontal barplot, histograms, boxplots. correlation matrix)  
+###### See project and code: 
 
 
 ### Famous paintings
@@ -70,21 +68,3 @@
 
 
 .
-## Work Experience
-
-#### Tech and DNA support @ MyHeritage, TLV, Israel, 2022- 2023                                                                                                    
-Supporting customers with queries, DNA-testing and results, and use of the company’s genealogy platforms (web, desktop software, mobile app). 
-Troubleshooting and attention to detail. Communication in English and Scandinavian languages over email and phone.  
-
-#### Business assistant and market consultant @ Lion Healthcare Europe AS, Norway, 2019-2021                                                                      
-Market research, promotion and sales of healthcare products. 
-Assisting in meetings, mail correspondence, building and maintaining client relations. 
-
-#### Consultant for International students @ University of Oslo, 2020-2021                                                                                
-Training students in the lab and assisting in various issues ranging from personal issues and logistics to school-related topics and exam preparation. 
- 
-#### Consultant @ Dept. of Teacher Edu. and School Research, 2019
-Consultant for the international student study “Trends in International Mathematics and Science Study” in Norway. Logistics and conduction of the study. 
-
-
-
