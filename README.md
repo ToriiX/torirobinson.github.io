@@ -31,7 +31,7 @@
 ###### See project and code: [IUCN Red List Assessment code, visualizations and insights](https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/The%20IUCN%20Red%20List%20-%20An%20Analysis.ipynb)
 
 <p float="left">
-  <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/fcf17057-63aa-4e67-b89b-0af7106bb8f7" width="400" />
+  <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/a6752a6b-5a06-45f4-baff-5fe3b8ac94c1" width="400" />
 </p>
 
 ### Iris Dataset
