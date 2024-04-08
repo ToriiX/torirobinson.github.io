@@ -1,12 +1,18 @@
+
 # Portfolio 
 
+*"Without data, you’re just another person with an opinion" - W. Edwards Deming*
+
+- I am driven by a passion for solving complex problems, using data to find insights and create compelling visualizations.
+
+ .
 ### Technical Skills: Python, SQL (PostgreSQL, MySQL), Tableau
 
 
 - ##### Certificate, Data Analyst Specialization, IBM (2023)
 - ##### M.Sc. Biology/Bioscience, University of Oslo (2021)
 
-.
+
 ## Data Analysis Projects
 *All projects are original*
 
