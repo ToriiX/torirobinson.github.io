@@ -1,12 +1,12 @@
 # Portfolio 
 
 ### Technical Skills: Python, SQL (PostgreSQL, MySQL), Tableau
-.
+
 
 - ##### Certificate, Data Analyst Specialization, IBM (2023)
 - ##### M.Sc. Biology/Bioscience, University of Oslo (2021)
-.
 
+.
 ## Data Analysis Projects
 *All projects are original*
 
@@ -53,14 +53,13 @@
 **Goal:** Create a customized map containing data sampling locations and flora regions for use in a scientific paper
 
 **Skills:** Python, Loading data locations into maps, Figure Layers, Geographical Data
-##### See maps and code: [Sampling Maps](https://github.com/ToriiX/Maps/blob/main/kenya_maps.ipynb)
+##### See map variations and code: [Sampling Maps](https://github.com/ToriiX/Maps/blob/main/kenya_maps.ipynb)
 
 <p float="left">
   <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/7f613e76-6381-4bbf-86bc-9b357baafceb" width="400" />
-  <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/c43c4c06-806c-4897-bfef-87b94a5d7d25" width="400" />
 </p>
 
-.
+
 ***Barplot for Questionaire*** 
 
 **Goal:** Create a Figure showing the results from a questionnaire for use in a scientific paper
