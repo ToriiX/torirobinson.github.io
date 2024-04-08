@@ -18,9 +18,10 @@
 **Skills:** Python, Data Preparation, Data Analysis. Visualizations (Including timelines, combined horizontal barplot, histograms, boxplots. correlation matrix)  
 ###### See project and code:[Global Air Pollution code and insights](https://github.com/ToriiX/AirPollutionEDA/blob/main/WHO_global_air_pollution.ipynb)
 
-![image](https://github.com/ToriiX/torirobinson.github.io/assets/156717220/0f176e9e-e6c7-4fd9-be2c-3ee4acacf328)
 
-![image](https://github.com/ToriiX/torirobinson.github.io/assets/156717220/929769d9-f8c8-4b02-b77f-6661fb47893a)
+<img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/0f176e9e-e6c7-4fd9-be2c-3ee4acacf328" width="300">
+
+<img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/929769d9-f8c8-4b02-b77f-6661fb47893a" width="300">
 
 
 ### IUCN Red List
