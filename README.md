@@ -7,10 +7,7 @@
 
  
 ### Technical Skills: Python, SQL (PostgreSQL, MySQL), Tableau
-
-
-- ##### Certificate, Data Analyst Specialization, IBM (2023)
-- ##### M.Sc. Biology/Bioscience, University of Oslo (2021)
+### Education: M.Sc. Biology/Bioscience, University of Oslo (2021)
 
 .
 ## Data Analysis Projects
@@ -80,3 +77,9 @@
 
 **Skills:** Python, Figure Customization
 ###### See figure and code: [Barplots](https://github.com/ToriiX/Maps/blob/main/kenya_barplot.ipynb)
+.
+
+### Certificates:
+- 2024 Tableau Certified Data Analyst Training (Udemy, current)
+- The complete SQL Masterclass 2024 (Udemy, current)
+- Data Analyst Specialization, IBM (Coursera, 2023)
