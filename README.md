@@ -55,9 +55,6 @@
 **Skills:** Python, Loading data locations into maps, Figure Layers, Geographical Data
 ##### See map variations and code: [Sampling Maps](https://github.com/ToriiX/Maps/blob/main/kenya_maps.ipynb)
 
-<p float="left">
-  <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/7f613e76-6381-4bbf-86bc-9b357baafceb" width="400" />
-</p>
 
 
 ***Barplot for Questionaire*** 
