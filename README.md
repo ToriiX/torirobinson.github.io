@@ -5,6 +5,7 @@
 - ##### Certificate, Data Analyst Specialization, IBM (2023)
 - ##### M.Sc. Biology/Bioscience, University of Oslo (2021)
 
+.
 ## Data Analysis Projects
 *All projects are original*
 
