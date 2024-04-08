@@ -32,10 +32,10 @@
 **Data source:** Data is downloaded directly from the primary source.
 
 **Skills:** Python, Data Preparation and Manipulation, Data Analysis including Correlation Analysis, Customized Data Visualization.
-###### See project and code: [IUCN Red List Assessment code, visualizations and insights](https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/The%20IUCN%20Red%20List%20-%20An%20Analysis.ipynb)
+###### See project and code: [IUCN Red List Assessment code, visualizations and insights]([https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/The%20IUCN%20Red%20List%20-%20An%20Analysis.ipynb](https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/The%20IUCN%20Red%20List%20-%20An%20Analysis.ipynb))
 
 <p float="left">
-  <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/a6752a6b-5a06-45f4-baff-5fe3b8ac94c1" width="400" />
+  <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/81d8af8d-fc62-4f88-9209-182b09fa9df1" width="400" />
 </p>
 
 ### Iris Dataset
