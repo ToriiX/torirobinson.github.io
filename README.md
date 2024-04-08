@@ -3,9 +3,9 @@
 
 *"Without data, you’re just another person with an opinion" - W. Edwards Deming*
 
-- I am driven by a passion for solving complex problems, using data to find insights and create compelling visualizations.
+***I am driven by a passion for solving complex problems, using data to find insights and create compelling visualizations***
 
- .
+ 
 ### Technical Skills: Python, SQL (PostgreSQL, MySQL), Tableau
 
 
