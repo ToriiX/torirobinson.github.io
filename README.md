@@ -82,4 +82,4 @@
 ### Certificates:
 - 2024 Tableau Certified Data Analyst Training (Udemy, current)
 - The complete SQL Masterclass 2024 (Udemy, current)
-- Data Analyst Specialization, IBM (Coursera, 2023)
+- IBM Data Analyst Professional Certificate (Coursera, 2023)
