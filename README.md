@@ -16,12 +16,12 @@
 **Data source:** Data downloaded from the World Health Organization.
   
 **Skills:** Python, Data Preparation, Data Analysis. Visualizations (Including timelines, combined horizontal barplot, histograms, boxplots. correlation matrix)  
-###### See project and code:[Global Air Pollution code and insights](https://github.com/ToriiX/AirPollutionEDA/blob/main/global_air_pollution(WHO).ipynb)
+###### See project and code:[Global Air Pollution code and insights](https://github.com/ToriiX/AirPollutionEDA/blob/main/WHO_global_air_pollution.ipynb)
 
 ### IUCN Red List
 **Goal:** To investigate the overall comprehensiveness of the Red List, and if there are considerations that need to be taken if using the list as a guideline for wildlife conservation actions and measures.
 
-**Data source:** Data is original and downloaded directly from the primary source.
+**Data source:** Data is downloaded directly from the primary source.
 
 **Skills:** Python, Data Preparation and Manipulation, Data Analysis including Correlation Analysis, Customized Data Visualization.
 ###### See project and code: [IUCN Red List Assessment code and insights](https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/The%20IUCN%20Red%20List%20-%20An%20Analysis.ipynb)
