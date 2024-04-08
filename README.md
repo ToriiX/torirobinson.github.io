@@ -1,24 +1,29 @@
 # Portfolio 
 
-### Technical Skills: Python, SQL, Tableau
-.
+### Technical Skills: Python, SQL(PostgreSQL, mySQL), Tableau
+
 - ##### Certificate, Data Analyst Specialization, IBM (2023)
 - ##### M.Sc. Biology/Bioscience, University of Oslo (2021)
-
-.
 
 ## Data Analysis Projects
 *All projects are original*
 
 
-### IUCN Red List  
+### Global Air Pollution(WHO)
+**Goal:** Explore the WHO's Global Air Pollution Data to create an overview of its sources, time development, and the regions/cities most affected by pollution. 
+
+**Data source:** Data downloaded from the World Health Organization.
+  
+**Skills:** Python, Data Preparation, Data Analysis. Visualizations (Including timelines, combined horizontal barplot, histograms, boxplots. correlation matrix)  
+###### See project and code:[Global Air Pollution code and insights](https://github.com/ToriiX/AirPollutionEDA/blob/main/global_air_pollution(WHO).ipynb)
+
+### IUCN Red List
 **Goal:** To investigate the overall comprehensiveness of the Red List, and if there are considerations that need to be taken if using the list as a guideline for wildlife conservation actions and measures.
 
 **Data source:** Data is original and downloaded directly from the primary source.
 
 **Skills:** Python, Data Preparation and Manipulation, Data Analysis including Correlation Analysis, Customized Data Visualization.
-###### See project and code: [IUCN Red List Assessment code and insights](https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/The_Red_List_Analysis.ipynb)
-
+###### See project and code: [IUCN Red List Assessment code and insights](https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/The%20IUCN%20Red%20List%20-%20An%20Analysis.ipynb)
 
 ### Iris Dataset
 **Goal:** Explore species feature variation within (intra) and between (inter) three species of Iris found in North America. The results can be used for species classification and further development of Machine Learning models for classification.
@@ -28,14 +33,6 @@
 **Skills:** Python, Data preparation, Data Analysis, Correlation Matrices, and various Visualizations (including heatmap, violin plot, bar plots, boxplots, KDE plot) and PCA.
 
 ###### See project and code: [Iris Data Exploration code and insights](https://github.com/ToriiX/Iris__dataset_EDA/blob/main/Iris_extended_dataset_EDA_PCA_analysis.ipynb)
-
-### Global Air Pollution
-**Goal:** Explore the WHO's Global Air Pollution Data to create an overview of its sources, geographical regions, time development, and the regions/cities most affected by pollution. 
-
-**Data source:** Data downloaded from the World Health Organization.
-  
-**Skills:** Python, Data Preparation, Data Analysis. Visualizations (Including timelines, combined horizontal barplot, histograms, boxplots. correlation matrix)  
-###### See project and code: 
 
 
 ### Famous paintings
