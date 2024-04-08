@@ -41,7 +41,7 @@
 
 **Skills:** Python, Data Preparation, Data Analysis, Correlation Matrices, and various Visualizations (including heatmap, violin plot, bar plots, boxplots, KDE plot) and PCA.
 
-###### See project and code: [Iris Data Exploration code and insights](https://github.com/ToriiX/Iris__dataset_EDA/blob/main/Iris_extended_dataset_EDA_PCA_analysis.ipynb)
+###### See project and code: [Iris Data Exploration code, visualizations and insights](https://github.com/ToriiX/Iris__dataset_EDA/blob/main/Iris_extended_dataset_EDA_PCA_analysis.ipynb)
 
 <p float="left">
   <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/9faef316-a1a0-46e6-83ff-d67b21c441a5" width="400" />
@@ -52,7 +52,7 @@
 
 **Goal:** Create a customized map containing data sampling locations and flora regions for use in a scientific paper
 
-**Skills:** Python, Loading data locations into maps, Figure Layers, various Parameters and Visuals 
+**Skills:** Python, Loading data locations into maps, Figure Layers, Geographical Data
 ##### See maps and code: [Sampling Maps](https://github.com/ToriiX/Maps/blob/main/kenya_maps.ipynb)
 
 <p float="left">
@@ -61,3 +61,9 @@
 </p>
 
 .
+***Barplot for Questionaire*** 
+
+**Goal:** Create a Figure showing the results from a questionnaire for use in a scientific paper
+
+**Skills:** Python, Figure Customization
+###### See figure and code: [Barplots](https://github.com/ToriiX/Maps/blob/main/kenya_barplot.ipynb)
