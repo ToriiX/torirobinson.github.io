@@ -47,6 +47,17 @@
   <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/9faef316-a1a0-46e6-83ff-d67b21c441a5" width="400" />
 </p>
 
+
+### Famous paintings
+**Goal:** Explore the data and find insights while practising my SQL skills.
+- Imported tables to MySQL database using Python
+- Joined tables and explored data on famous paintings using MySQL
+  
+**Data source:** Kaggle.com.
+  
+**Skills:** Loading data tables into a database in mySQL using Python, SQL (Joining tables, Selecting specific information, Formulas(sum, average etc.))
+###### See project and code: [Art Paintings insights and code](https://github.com/ToriiX/SQL-Art_Paintings)
+
 ### Scientific Figures:
 ***Sampling map of Kenya*** 
 
