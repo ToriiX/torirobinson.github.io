@@ -7,6 +7,7 @@
 
  
 **Technical Skills:** Python, SQL (PostgreSQL, MySQL), Tableau
+
 **Education:** M.Sc. Biology/Bioscience, University of Oslo (2021)
 
 .
