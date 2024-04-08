@@ -19,9 +19,7 @@
 ###### See project and code:[Global Air Pollution code, visualizations and insights](https://github.com/ToriiX/AirPollutionEDA/blob/main/WHO_global_air_pollution.ipynb)
 
 
-<img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/0f176e9e-e6c7-4fd9-be2c-3ee4acacf328" width="300">
-
-<img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/929769d9-f8c8-4b02-b77f-6661fb47893a" width="300">
+<img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/0f176e9e-e6c7-4fd9-be2c-3ee4acacf328" width="300"><img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/929769d9-f8c8-4b02-b77f-6661fb47893a" width="300">
 
 
 ### IUCN Red List
@@ -47,8 +45,7 @@
 
 ###### See project and code: [Iris Data Exploration code and insights](https://github.com/ToriiX/Iris__dataset_EDA/blob/main/Iris_extended_dataset_EDA_PCA_analysis.ipynb)
 
-<img src ="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/9faef316-a1a0-46e6-83ff-d67b21c441a5" width="300">
-<img src ="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/48d54b16-c8dd-44ac-96c4-d2e43733913c" width="300">
+<img src ="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/9faef316-a1a0-46e6-83ff-d67b21c441a5" width="300"><img src ="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/48d54b16-c8dd-44ac-96c4-d2e43733913c" width="300">
 
 
 
@@ -71,7 +68,7 @@
 **Skills:** Python, Loading data locations into maps, Figure Layers, various Parameters and Visuals 
 ##### See maps and code: [Sampling Maps](https://github.com/ToriiX/Maps/blob/main/kenya_maps.ipynb)
 
-<img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/7f613e76-6381-4bbf-86bc-9b357baafceb" width="300>
+<img src ="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/7f613e76-6381-4bbf-86bc-9b357baafceb" width="300">
 
 
 ***Barplot for Questionaire*** 
