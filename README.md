@@ -6,8 +6,8 @@
 ***- I am driven by a passion for solving complex problems, using data to find insights and create compelling visualizations***
 
  
-### Technical Skills: Python, SQL (PostgreSQL, MySQL), Tableau
-### Education: M.Sc. Biology/Bioscience, University of Oslo (2021)
+**Technical Skills:** Python, SQL (PostgreSQL, MySQL), Tableau
+**Education:** M.Sc. Biology/Bioscience, University of Oslo (2021)
 
 .
 ## Data Analysis Projects
