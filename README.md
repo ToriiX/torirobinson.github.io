@@ -1,6 +1,7 @@
 # Portfolio 
 
 ### Technical Skills: Python, SQL (PostgreSQL, MySQL), Tableau
+.
 
 - ##### Certificate, Data Analyst Specialization, IBM (2023)
 - ##### M.Sc. Biology/Bioscience, University of Oslo (2021)
@@ -19,7 +20,6 @@
 
 <p float="left">
   <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/0f176e9e-e6c7-4fd9-be2c-3ee4acacf328" width="400" />
-  <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/929769d9-f8c8-4b02-b77f-6661fb47893a" width="400" /> 
 </p>
 
 ### IUCN Red List
@@ -32,7 +32,6 @@
 
 <p float="left">
   <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/fcf17057-63aa-4e67-b89b-0af7106bb8f7" width="400" />
-  <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/a17bd637-aba1-4905-a663-0372d18b4465" width="400" />
 </p>
 
 ### Iris Dataset
@@ -46,7 +45,6 @@
 
 <p float="left">
   <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/9faef316-a1a0-46e6-83ff-d67b21c441a5" width="400" />
-  <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/48d54b16-c8dd-44ac-96c4-d2e43733913c" width="400" />
 </p>
 
 ### Scientific Figures:
