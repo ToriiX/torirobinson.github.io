@@ -84,9 +84,11 @@
 ###### See figure and code: [Barplots](https://github.com/ToriiX/Maps/blob/main/kenya_barplot.ipynb)
 
 
-<a href="mailto:torirobinson381@gmail.com">Email me</a>
 
 ### Certificates:
 - 2024 Tableau Certified Data Analyst Training (Udemy, current)
 - The complete SQL Masterclass 2024 (Udemy, 2024)
 - IBM Data Analyst Professional Certificated (Coursera, 2023)
+
+
+<a href="mailto:torirobinson381@gmail.com">Email me</a>
