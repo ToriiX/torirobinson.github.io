@@ -39,11 +39,11 @@
 
 
 ### Bella Beat Womens Fitness App
-**Goal**: Analyze customer behavior and provide recomdations for features and further product development.
+**Goal**: Analyze customer behavior and provide recommendations for features and further product development.
 
 **Skills:** Python, Excel, Tableau, Data Preparation and Manipulation, Data Analysis, Data Visualization.
 
-###### See project and code:
+###### See project and code: ****Coming****
 
 
 ### Iris Dataset
