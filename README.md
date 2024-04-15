@@ -19,8 +19,6 @@
 
 ### Global Air Pollution (WHO)
 **Goal:** Explore the WHO's Global Air Pollution Data to create an overview of its sources, time development, and the regions/cities most affected by pollution. 
-
-**Data source:** Data downloaded from the World Health Organization.
   
 **Skills:** Python, Data Preparation, Data Analysis. Visualizations (Including timelines, combined horizontal barplot, histograms, boxplots. correlation matrix)  
 ###### See project and code: [Global Air Pollution code, visualizations and insights](https://github.com/ToriiX/AirPollutionEDA/blob/main/WHO_global_air_pollution.ipynb)
@@ -32,8 +30,6 @@
 ### IUCN Red List
 **Goal:** To investigate the overall comprehensiveness of the Red List, and if there are considerations that need to be taken if using the list as a guideline for wildlife conservation actions and measures.
 
-**Data source:** Data is downloaded directly from the primary source.
-
 **Skills:** Python, Data Preparation and Manipulation, Data Analysis including Correlation Analysis, Customized Data Visualization.
 ###### See project and code: [IUCN Red List Assessment code, visualizations and insights](https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/The%20IUCN%20Red%20List%20-%20An%20Analysis.ipynb)
 
@@ -41,10 +37,17 @@
   <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/bd3b2e82-2768-41bf-8f5b-cea2b4558350" width="400" />
 </p>
 
+
+### Bella Beat Womens Fitness App
+**Goal**: Analyze customer behavior and provide recomdations for features and further product development.
+
+**Skills:** Python, Excel, Tableau, Data Preparation and Manipulation, Data Analysis, Data Visualization.
+
+###### See project and code:
+
+
 ### Iris Dataset
 **Goal:** Explore species feature variation within (intra) and between (inter) three species of Iris found in North America. The results can be used for species classification and further development of Machine Learning models for classification.
-
-**Data source:** Kaggle.com
 
 **Skills:** Python, Data Preparation, Data Analysis, Correlation Matrices, and various Visualizations (including heatmap, violin plot, bar plots, boxplots, KDE plot) and PCA.
 
@@ -87,5 +90,5 @@
 
 ### Certificates:
 - 2024 Tableau Certified Data Analyst Training (Udemy, current)
-- The complete SQL Masterclass 2024 (Udemy, current)
-- Data Analyst Specialization, IBM (Coursera, 2023)
+- The complete SQL Masterclass 2024 (Udemy, 2024)
+- IBM Data Analyst Professional Certificated (Coursera, 2023)
