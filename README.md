@@ -10,7 +10,6 @@
 
 **Education:** M.Sc. Biology/Bioscience, University of Oslo (2021)
 
-"torirobinson381@gmail.com?">Click here email me
 
 ## Data Analysis Projects
 *All projects are original*
@@ -79,6 +78,10 @@
 
 **Skills:** Python, Figure Customization
 ###### See figure and code: [Barplots](https://github.com/ToriiX/Maps/blob/main/kenya_barplot.ipynb)
+
+
+
+<a href="mailto:torirobinson381@gmail.com">Email me</a>
 .
 
 ### Certificates:
