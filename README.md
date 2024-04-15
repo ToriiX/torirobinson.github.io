@@ -91,4 +91,4 @@
 - IBM Data Analyst Professional Certificated (Coursera, 2023)
 
 
-<a href="mailto:torirobinson381@gmail.com">Email me</a>
+**Contact:** <a href="mailto:torirobinson381@gmail.com">Email me</a>
