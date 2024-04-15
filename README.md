@@ -10,7 +10,8 @@
 
 **Education:** M.Sc. Biology/Bioscience, University of Oslo (2021)
 
-.
+"torirobinson381@gmail.com?">Click here email me
+
 ## Data Analysis Projects
 *All projects are original*
 
