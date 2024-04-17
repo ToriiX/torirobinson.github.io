@@ -18,7 +18,7 @@
 *All projects are original*
 
 ### Global Air Pollution (WHO)
-**Goal:** Explore the WHO's Global Air Pollution Data to create an overview of its sources, time development, and the regions/cities most affected by pollution. 
+**Goal:** Explore the WHO's Global Air Pollution Data to create an overview of its sources, timeline and trends, and the regions/cities most affected by pollution. 
   
 **Skills:** Python, Data Preparation, Data Analysis. Visualizations (Including timelines, combined horizontal barplot, histograms, boxplots. correlation matrix)  
 ###### See project and code: [Global Air Pollution code, visualizations and insights](https://github.com/ToriiX/AirPollutionEDA/blob/main/WHO_global_air_pollution.ipynb)
@@ -39,9 +39,9 @@
 
 
 ### Bella Beat Womens Fitness App
-**Goal**: Analyze customer behavior and provide recommendations for features and further product development.
+**Goal**: Analyze customer behaviour and provide recommendations for features and further product development.
 
-**Skills:** Python, Excel, Tableau, Data Preparation and Manipulation, Data Analysis, Data Visualization.
+**Skills:** Data Preparation and Manipulation, Data Analysis, Data Visualization.
 
 ###### See project and code: ****Coming****
 
@@ -63,7 +63,7 @@
 - Imported tables to MySQL database using Python
 - Joined tables and explored data on famous paintings using MySQL
 
-**Skills:** Loading data tables into a database in mySQL using Python, SQL (Joining tables, Selecting specific information, Formulas(sum, average etc.))
+**Skills:** Loading data tables into a database in MySQL using Python, SQL (Joining tables, Selecting specific information, Formulas(sum, average etc.))
 ###### See project and code: [Art Paintings insights and code](https://github.com/ToriiX/SQL-Art_Paintings)
 
 ### Scientific Figures:
@@ -90,5 +90,5 @@
 - The complete SQL Masterclass 2024 (Udemy, 2024)
 - IBM Data Analyst Professional Certificated (Coursera, 2023)
 
-
+(Projects involving Tableau will be added to the portfolio) 
 **Contact:** <a href="mailto:torirobinson381@gmail.com">Email me</a>
