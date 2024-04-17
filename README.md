@@ -20,7 +20,7 @@
 ### Global Air Pollution (WHO)
 **Goal:** Explore the WHO's Global Air Pollution Data to create an overview of its sources, timeline and trends, and the regions/cities most affected by pollution. 
   
-**Skills:** Python, Data Preparation, Data Analysis. Visualizations (Including timelines, combined horizontal barplot, histograms, boxplots. correlation matrix).  
+**Skills:** Python, Data Preparation, Data Analysis, Visualizations (Including timelines, combined horizontal barplot, histograms, boxplots. correlation matrix).  
 ###### See project and code: [Global Air Pollution code, visualizations and insights](https://github.com/ToriiX/AirPollutionEDA/blob/main/WHO_global_air_pollution.ipynb)
 
 <p float="left">
