@@ -20,7 +20,7 @@
 ### Global Air Pollution (WHO)
 **Goal:** Explore the WHO's Global Air Pollution Data to create an overview of its sources, timeline and trends, and the regions/cities most affected by pollution. 
   
-**Skills:** Python, Data Preparation, Data Analysis. Visualizations (Including timelines, combined horizontal barplot, histograms, boxplots. correlation matrix)  
+**Skills:** Python, Data Preparation, Data Analysis. Visualizations (Including timelines, combined horizontal barplot, histograms, boxplots. correlation matrix).  
 ###### See project and code: [Global Air Pollution code, visualizations and insights](https://github.com/ToriiX/AirPollutionEDA/blob/main/WHO_global_air_pollution.ipynb)
 
 <p float="left">
@@ -63,24 +63,24 @@
 - Imported tables to MySQL database using Python
 - Joined tables and explored data on famous paintings using MySQL
 
-**Skills:** Loading data tables into a database in MySQL using Python, SQL (Joining tables, Selecting specific information, Formulas(sum, average etc.))
+**Skills:** Loading data tables into a database in MySQL using Python, SQL (Joining tables, Selecting specific information, Formulas(sum, average etc.)).
 ###### See project and code: [Art Paintings insights and code](https://github.com/ToriiX/SQL-Art_Paintings)
 
 ### Scientific Figures:
 ***Sampling map of Kenya*** 
 
-**Goal:** Create a customized map containing data sampling locations and flora regions for use in a scientific paper
+**Goal:** Create a customized map containing data sampling locations and flora regions for use in a scientific paper.
 
-**Skills:** Python, Loading data locations into maps, Figure Layers, Geographical Data
+**Skills:** Python, Loading data locations into maps, Figure Layers, Geographical Data.
 ##### See map variations and code: [Sampling Maps](https://github.com/ToriiX/Maps/blob/main/kenya_maps.ipynb)
 
 
 
 ***Barplot for Questionaire*** 
 
-**Goal:** Create a Figure showing the results from a questionnaire for use in a scientific paper
+**Goal:** Create a Figure showing the results from a questionnaire for use in a scientific paper.
 
-**Skills:** Python, Figure Customization
+**Skills:** Python, Data Visualization and Figure Customization.
 ###### See figure and code: [Barplots](https://github.com/ToriiX/Maps/blob/main/kenya_barplot.ipynb)
 
 
@@ -90,5 +90,8 @@
 - The complete SQL Masterclass 2024 (Udemy, 2024)
 - IBM Data Analyst Professional Certificated (Coursera, 2023)
 
+
 (Projects involving Tableau will be added to the portfolio) 
+
+
 **Contact:** <a href="mailto:torirobinson381@gmail.com">Email me</a>
