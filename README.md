@@ -18,7 +18,7 @@
 *All projects are original*
 
 ### Global Air Pollution (WHO)
-**Goal:** Explore the WHO's Global Air Pollution Data to create an overview of its sources, timeline and trends, and the regions/cities most affected by pollution. 
+**Goal:** Explore the WHO's Global Air Pollution Data to create an overview of its sources, the concentrations of pollutants, timelines and trends, and the regions/cities most affected by pollutants. 
   
 **Skills:** Python, Data Preparation, Data Analysis, Visualizations (Including timelines, combined horizontal barplot, histograms, boxplots. correlation matrix).  
 ###### See project and code: [Global Air Pollution code, visualizations and insights](https://github.com/ToriiX/AirPollutionEDA/blob/main/WHO_global_air_pollution.ipynb)
@@ -38,7 +38,7 @@
 </p>
 
 
-### Bella Beat Womens Fitness App
+### Womens Fitness App
 **Goal**: Analyze customer behaviour and provide recommendations for features and further product development.
 
 **Skills:** Data Preparation and Manipulation, Data Analysis, Data Visualization.
