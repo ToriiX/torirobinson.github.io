@@ -38,13 +38,6 @@
 </p>
 
 
-### Womens Fitness App
-**Goal**: Analyze customer behaviour and provide recommendations for features and further product development.
-
-**Skills:** Data Preparation and Manipulation, Data Analysis, Data Visualization.
-
-###### See project and code: ****Coming****
-
 
 ### Iris Dataset
 **Goal:** Explore species feature variation within (intra) and between (inter) three species of Iris found in North America. The results can be used for species classification and further development of Machine Learning models for classification.
@@ -56,6 +49,20 @@
 <p float="left">
   <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/9faef316-a1a0-46e6-83ff-d67b21c441a5" width="400" />
 </p>
+
+
+
+### Womens Fitness App
+**Goal**: Analyze customer behaviour and provide recommendations for features and further product development.
+
+**Skills:** Data Preparation and Manipulation, Data Analysis, Data Visualization.
+
+###### See project and code: ****Coming****
+
+<p float="left">
+  <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/c76b1035-2be8-448d-9dce-64835070b567" width="400" />
+</p>
+
 
 
 ### Famous paintings
