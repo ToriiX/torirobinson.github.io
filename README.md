@@ -59,10 +59,6 @@
 
 ###### See project and code: ****Coming****
 
-<p float="left">
-  <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/c76b1035-2be8-448d-9dce-64835070b567" width="400" />
-</p>
-
 
 
 ### Famous paintings
