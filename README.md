@@ -57,10 +57,10 @@
 
 **Skills:** Data Preparation and Manipulation, Data Analysis, Data Visualization.
 
-###### See project and code: [View case study with code](https://github.com/ToriiX/Fitnessapp/blob/main/Bella_Beat_User_cstudy.ipynb)
+###### See project and code: [View case study with code](https://github.com/ToriiX/Fitnessapp/blob/main/Bella_Beat_CaseStudy.ipynb)
 
 <p float="left">
-  <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/e1283ead-f0a1-4c89-a637-d48b82357ee7" width="400" />
+  <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/f738fc9e-f720-4d12-a5ac-05d3f3113ccd" width="400" />
 </p>
 
 ### Famous paintings
