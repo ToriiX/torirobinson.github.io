@@ -53,13 +53,15 @@
 
 
 ### Womens Fitness App
-**Goal**: Analyze customer behaviour and provide recommendations for features and further product development.
+**Goal**: Analyze customer behaviour data and provide recommendations for features and further product development.
 
 **Skills:** Data Preparation and Manipulation, Data Analysis, Data Visualization.
 
-###### See project and code: ****Coming****
+###### See project and code: [View case study with code](https://github.com/ToriiX/Fitnessapp/blob/main/Bella_Beat_User_Analysis.ipynb)
 
-
+<p float="left">
+  <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/bfb3dfb9-712a-4f8e-b88c-fd98dd9d0e9f" width="400" />
+</p>
 
 ### Famous paintings
 **Goal:** Explore the data and find insights while practising my SQL skills.
