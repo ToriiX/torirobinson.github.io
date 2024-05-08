@@ -60,7 +60,7 @@
 ###### See project and code: [View case study with code](https://github.com/ToriiX/Fitnessapp/blob/main/Bella_Beat_User_Analysis.ipynb)
 
 <p float="left">
-  <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/bfb3dfb9-712a-4f8e-b88c-fd98dd9d0e9f" width="400" />
+  <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/e1283ead-f0a1-4c89-a637-d48b82357ee7" width="400" />
 </p>
 
 ### Famous paintings
