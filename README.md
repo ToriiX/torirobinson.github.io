@@ -15,7 +15,6 @@
 
 
 ## Data Analysis Projects
-*All projects are original*
 
 ### Global Air Pollution (WHO)
 **Goal:** Explore the WHO's Global Air Pollution Data to create an overview of its sources, the concentrations of pollutants, timelines and trends, and the regions/cities most affected by pollutants. 
@@ -68,8 +67,16 @@
 - Imported tables to MySQL database using Python
 - Joined tables and explored data on famous paintings using MySQL
 
-**Skills:** Loading data tables into a database in MySQL using Python, SQL (Joining tables, Selecting specific information, Formulas(sum, average etc.)).
+**Skills:** Loading data tables into a database in MySQL using Python, SQL (Joining tables, Selecting specific information, aggregation (sum, average etc.)).
 ###### See project and code: [Art Paintings insights and code](https://github.com/ToriiX/SQL-Art_Paintings)
+
+### GreenCircles SQL exercise
+**Goal:** Explore the data and find insights while practising my SQL skills in PostgreSQL.
+
+**Skills:** Intermediate to advanced SQL queries.
+
+###### See code: [GreenCircles code](https://github.com/ToriiX/SQL_pga/blob/main/GreenCircles.sql)
+
 
 ### Scientific Figures:
 ***Sampling map of Kenya*** 
