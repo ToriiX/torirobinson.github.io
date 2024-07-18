@@ -85,7 +85,7 @@
 
 **Skills:** Python, Loading data locations into maps, Figure Layers, Geographical Data, QGIS, Digital Drawing.
 ##### See map variations and code: [Sampling Maps](https://github.com/ToriiX/Maps/blob/main/kenya_maps.ipynb)
-##### See QGUS map (left) + digitally drawn map(right) [Maps](https://github.com/ToriiX/Maps/blob/main/(a)%20(12).jpg)
+##### See QGIS map (left) + digitally drawn map(right) [Maps](https://github.com/ToriiX/Maps/blob/main/(a)%20(12).jpg)
 
 
 ***Barplot for Questionaire*** 
