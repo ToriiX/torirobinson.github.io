@@ -83,17 +83,18 @@
 
 **Goal:** Create a customized map containing data sampling locations and flora regions for use in a scientific paper.
 
-**Skills:** Python, Loading data locations into maps, Figure Layers, Geographical Data.
+**Skills:** Python, Loading data locations into maps, Figure Layers, Geographical Data, QGIS, digital drawing.
 ##### See map variations and code: [Sampling Maps](https://github.com/ToriiX/Maps/blob/main/kenya_maps.ipynb)
-
+##### See QGUS map (left) + digitally drawn map(right) [Maps](https://github.com/ToriiX/Maps/blob/main/(a)%20(12).jpg)
 
 
 ***Barplot for Questionaire*** 
 
-**Goal:** Create a Figure showing the results from a questionnaire for use in a scientific paper.
+**Goal:** Create a Figure showing the results from a questionnaire for use in scientific papers.
 
 **Skills:** Python, Data Visualization and Figure Customization.
-###### See figure and code: [Barplots](https://github.com/ToriiX/Maps/blob/main/kenya_barplot.ipynb)
+#### See figure and code: [Barplot paper 1](https://github.com/ToriiX/Maps/blob/main/Conservation_paper_figure.ipynb)
+                    ##### [Barplots paper 2](https://github.com/ToriiX/Maps/blob/main/Utility_paper_figures.ipynb)
 
 
 
