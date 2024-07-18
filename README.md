@@ -79,7 +79,7 @@
 
 
 ### Scientific Figures:
-***Sampling map of Kenya*** 
+***Sampling maps of Kenya*** 
 
 **Goal:** Create a customized map containing data sampling locations and flora regions for use in a scientific paper.
 
@@ -88,7 +88,7 @@
 ##### See QGIS map (left) + digitally drawn map(right) [Maps](https://github.com/ToriiX/Maps/blob/main/(a)%20(12).jpg)
 
 
-**Data figures for papers** 
+***Data figures for papers*** 
 
 **Goal:** Create a Figure showing the results from a questionnaire for use in scientific papers.
 
