@@ -88,7 +88,7 @@
 ##### See QGIS map (left) + digitally drawn map(right) [Maps](https://github.com/ToriiX/Maps/blob/main/(a)%20(12).jpg)
 
 
-***Data figures** 
+**Data figures for papers** 
 
 **Goal:** Create a Figure showing the results from a questionnaire for use in scientific papers.
 
