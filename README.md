@@ -63,9 +63,9 @@
 </p>
 
 
-### Miniproject: Rocket alarms (flight alarms) in Israel
+### Mini project: Rocket alarms (flight alarms) in Israel
 **Goal:** Explore the dataset
-###### See project and code: [View](https://github.com/ToriiX/miniprojects/blob/main/Rockets.ipynb)
+###### See project and code: [View](https://github.com/ToriiX/miniprojects/blob/main/Rocketalarms.ipynb)
 
 
 
