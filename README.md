@@ -62,6 +62,12 @@
   <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/f738fc9e-f720-4d12-a5ac-05d3f3113ccd" width="400" />
 </p>
 
+
+### Miniproject: Rockets fired at Israel
+**Goal** Explore the dataset
+###### See project and code: [View](https://github.com/ToriiX/miniprojects/blob/main/rockets_israel.ipynb)
+
+
 ### Famous paintings
 **Goal:** Explore the data and find insights while practising my SQL skills.
 - Imported tables to MySQL database using Python
