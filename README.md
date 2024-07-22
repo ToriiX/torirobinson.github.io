@@ -93,7 +93,7 @@
 **Goal:** Create a Figure showing the results from a questionnaire for use in scientific papers.
 
 **Skills:** Python, Data Visualization and Figure Customization.
-##### See figure and code: [Barplot paper 1(below),](https://github.com/ToriiX/Maps/blob/main/Conservation_paper_figure.ipynb)[     Various plots paper 2](https://github.com/ToriiX/Maps/blob/main/utility_paper_july_2024.ipynb)
+##### See figure and code: [Barplot paper 1(below),](https://github.com/ToriiX/Maps/blob/main/Conservation_paper_figure.ipynb)[     Various plots paper 2](https://github.com/ToriiX/Maps/blob/main/UtilityPaper_figs.ipynb)
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/131783f0-f3a7-4cba-87b5-c4d4069aa036" width="350" />
