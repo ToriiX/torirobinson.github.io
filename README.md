@@ -63,9 +63,10 @@
 </p>
 
 
-### Miniproject: Rockets fired at Israel
+### Miniproject: Rockets alarms (flight alarms) in Israel
 **Goal** Explore the dataset
-###### See project and code: [View](https://github.com/ToriiX/miniprojects/blob/main/rockets_israel.ipynb)
+###### See project and code: [View](https://github.com/ToriiX/miniprojects/blob/main/Rockets.ipynb)
+
 
 
 ### Famous paintings
