@@ -68,7 +68,7 @@
 ###### See project and code: [View](https://github.com/ToriiX/miniprojects/blob/main/Rocketalarms%20.ipynb)
 
 <p float="left">
-  <img src="https://github.com/ToriiX/miniprojects/blob/main/unnamed.png" width="200" />
+  <img src="https://github.com/ToriiX/miniprojects/blob/main/unnamed.png" width="150" />
 </p>
 
 
