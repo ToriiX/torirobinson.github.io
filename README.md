@@ -17,6 +17,19 @@
 
 ## Data Analysis Projects
 
+## Index
+
+1. [Global Air Pollution (WHO)](#global-air-pollution-who)
+2. [IUCN Red List](#iucn-red-list)
+3. [Mini project: Rocket alarms (flight alarms) in Israel](#mini-project-rocket-alarms-flight-alarms-in-israel)
+4. [Iris Dataset](#iris-dataset)
+5. [Womens Fitness App](#womens-fitness-app)
+6. [SQL: Famous paintings](#sql-famous-paintings)
+7. [SQL: GreenCircles SQL exercise](#sql-greencircles-sql-exercise)
+8. [Scientific Figures: Sampling maps of Kenya](#scientific-figures-sampling-maps-of-kenya)
+9. [Scientific Figures: Data figures for papers](#scientific-figures-data-figures-for-papers)
+10. [Certificates](#certificates)
+
 
  <br>
  
