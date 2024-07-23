@@ -100,7 +100,16 @@
 
 ### SQL:
 
+### Teaching Database
 
+**Goal:** Create a database to utilize in my personal teaching job.
+
+**Skills:** Creating database and tables, PostgreSQL
+
+#### Short project description and code:[View](https://github.com/ToriiX/teaching/blob/main/README.md)
+
+ <br>
+ 
 ### Famous Paintings
 **Goal:** Explore the data and find insights while practising my SQL skills.
 - Imported tables to MySQL database using Python
