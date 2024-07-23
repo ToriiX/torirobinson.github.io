@@ -11,11 +11,14 @@
 **Education:** M.Sc. Bioscience, University of Oslo (2021)
 
 
-
+ <br
+   <br>>
 
 
 ## Data Analysis Projects
 
+### Python
+ <br>
 ### Global Air Pollution (WHO)
 **Goal:** Explore the WHO's Global Air Pollution Data to create an overview of its sources, the concentrations of pollutants, timelines and trends, and the regions/cities most affected by pollutants. 
   
@@ -25,7 +28,7 @@
 <p float="left">
   <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/0f176e9e-e6c7-4fd9-be2c-3ee4acacf328" width="400" />
 </p>
-
+ <br>
 ### IUCN Red List
 **Goal:** To investigate the overall comprehensiveness of the Red List, and if there are considerations that need to be taken if using the list as a guideline for wildlife conservation actions and measures.
 
@@ -36,7 +39,7 @@
   <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/bd3b2e82-2768-41bf-8f5b-cea2b4558350" width="400" />
 </p>
 
-
+ <br>
 ### Mini project: Rocket alarms (flight alarms) in Israel
 **Goal:** Explore the dataset and gain insights
 ###### See project and code: [View](https://github.com/ToriiX/miniprojects/blob/main/Rocketalarms.ipynb)
@@ -45,7 +48,7 @@
   <img src="https://github.com/user-attachments/assets/41a398ed-f914-46ee-acd2-1c02ab16b9a0" width="150" />
 </p>
 
-
+ <br>
 ### Iris Dataset
 **Goal:** Explore species feature variation within (intra) and between (inter) three species of Iris found in North America. The results can be used for species classification and further development of Machine Learning models for classification.
 
@@ -57,7 +60,7 @@
   <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/9faef316-a1a0-46e6-83ff-d67b21c441a5" width="400" />
 </p>
 
-
+ <br>
 
 ### Womens Fitness App
 **Goal**: Analyze customer behaviour data and provide recommendations for features and further product development.
@@ -71,8 +74,9 @@
 </p>
 
 
-
-
+ <br>
+### SQL
+ <br>
 ### Famous paintings
 **Goal:** Explore the data and find insights while practising my SQL skills.
 - Imported tables to MySQL database using Python
@@ -81,13 +85,14 @@
 **Skills:** Loading data tables into a database in MySQL using Python, SQL (Joining tables, Selecting specific information, aggregation (sum, average etc.)).
 ###### See project and code: [Art Paintings insights and code](https://github.com/ToriiX/SQL-Art_Paintings)
 
+ <br>
 ### GreenCircles SQL exercise
 **Goal:** Explore the data and find insights while practising my SQL skills in PostgreSQL.
 
 **Skills:** Intermediate to advanced SQL queries.
 
 ###### See code: [GreenCircles code](https://github.com/ToriiX/SQL_pga/blob/main/GreenCircles.sql)
-
+ <br>
 
 ### Scientific Figures:
 ***Sampling maps of Kenya*** 
@@ -98,7 +103,7 @@
 ##### See map variations and code: [Sampling Maps](https://github.com/ToriiX/Maps/blob/main/kenya_maps.ipynb)
 ##### See QGIS map (left) + digitally drawn map(right) [Maps](https://github.com/ToriiX/Maps/blob/main/(a)%20(12).jpg)
 
-
+ <br>
 ***Data figures for papers*** 
 
 **Goal:** Create a Figure showing the results from a questionnaire for use in scientific papers.
@@ -109,7 +114,8 @@
 <p float="left">
   <img src="https://github.com/user-attachments/assets/131783f0-f3a7-4cba-87b5-c4d4069aa036" width="350" />
 </p>
-
+ <br>
+  <br>
 ### Certificates:
 - 2024 Tableau Certified Data Analyst Training (Udemy, current)
 - The complete SQL Masterclass 2024 (Udemy, 2024)
