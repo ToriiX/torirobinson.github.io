@@ -24,11 +24,12 @@
 3. [Rocket Alarms (flight alarms) in Israel](#mini-project-rocket-alarms-flight-alarms-in-israel)
 4. [Iris Dataset](#iris-dataset)
 5. [Womens Fitness App](#womens-fitness-app)
-6. [SQL: Famous Paintings](#sql-famous-paintings)
-7. [SQL: GreenCircles exercise](#sql-greencircles-exercise)
-8. [Scientific Figures: Sampling maps of Kenya](#scientific-figures-sampling-maps-of-kenya)
-9. [Scientific Figures: Data figures for papers](#scientific-figures-data-figures-for-papers)
-10. [Certificates](#certificates)
+6. [SQL: Teaching Database](#sql-teaching-database)
+7. [SQL: Famous Paintings](#sql-famous-paintings)
+8. [SQL: GreenCircles exercise](#sql-greencircles-exercise)
+9. [Scientific Figures: Sampling maps of Kenya](#scientific-figures-sampling-maps-of-kenya)
+10. [Scientific Figures: Data figures for papers](#scientific-figures-data-figures-for-papers)
+11. [Certificates](#certificates)
 
 
  <br>
