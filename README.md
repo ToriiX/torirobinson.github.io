@@ -97,7 +97,7 @@
  <br>
 
 ### SQL:
- <br>
+
 
 ### Famous Paintings
 **Goal:** Explore the data and find insights while practising my SQL skills.
