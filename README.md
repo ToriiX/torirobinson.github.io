@@ -17,7 +17,7 @@
 
 ## Data Analysis Projects
 
-## Index
+### Index
 
 1. [Global Air Pollution (WHO)](#global-air-pollution-who)
 2. [IUCN Red List of Threatened Species](#iucn-red-list-of-threatened-species)
