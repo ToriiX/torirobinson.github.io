@@ -21,7 +21,7 @@
 
 1. [Global Air Pollution (WHO)](#global-air-pollution-who)
 2. [IUCN Red List of Threatened Species](#iucn-red-list-of-threatened-species)
-3. [Mini project: Rocket Alarms (flight alarms) in Israel](#mini-project-rocket-alarms-flight-alarms-in-israel)
+3. [Rocket Alarms (flight alarms) in Israel](#mini-project-rocket-alarms-flight-alarms-in-israel)
 4. [Iris Dataset](#iris-dataset)
 5. [Womens Fitness App](#womens-fitness-app)
 6. [SQL: Famous Paintings](#sql-famous-paintings)
@@ -57,8 +57,8 @@
 
  <br>
 
-### Mini project: Rocket Alarms (flight alarms) in Israel
-**Goal:** Explore the dataset and gain insights
+### Rocket Alarms (flight alarms) in Israel
+**Goal:** Explore the dataset and gain insights. Mini project.
 #### View insights and graphs: [Here](https://github.com/ToriiX/miniprojects/blob/main/README.md)
 #### View code: [Here](https://github.com/ToriiX/miniprojects/blob/main/Rocketalarms.ipynb)
 
