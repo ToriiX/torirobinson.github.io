@@ -11,13 +11,13 @@
 **Education:** M.Sc. Bioscience, University of Oslo (2021)
 
 
- <br>
+
    <br>
 
 
 ## Data Analysis Projects
 
-### Python
+### <u>Python</u>
  <br>
 ### Global Air Pollution (WHO)
 **Goal:** Explore the WHO's Global Air Pollution Data to create an overview of its sources, the concentrations of pollutants, timelines and trends, and the regions/cities most affected by pollutants. 
