@@ -17,8 +17,9 @@
 
 ## Data Analysis Projects
 
-### <u>Python</u>
+<h3>Python</h3>
  <br>
+ 
 ### Global Air Pollution (WHO)
 **Goal:** Explore the WHO's Global Air Pollution Data to create an overview of its sources, the concentrations of pollutants, timelines and trends, and the regions/cities most affected by pollutants. 
   
