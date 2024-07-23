@@ -15,11 +15,11 @@
    <br>
 
 
-# Data Analysis Projects
+## Data Analysis Projects
 
 <br>
 
-## Python
+### Python:
 
 
  <br>
@@ -84,7 +84,7 @@
 
  <br>
 
-### SQL
+### SQL:
  <br>
 
 ### Famous paintings
@@ -103,6 +103,7 @@
 
 ###### See code: [GreenCircles code](https://github.com/ToriiX/SQL_pga/blob/main/GreenCircles.sql)
  <br>
+
 
 ### Scientific Figures:
 ***Sampling maps of Kenya*** 
