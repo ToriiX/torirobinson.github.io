@@ -11,8 +11,8 @@
 **Education:** M.Sc. Bioscience, University of Oslo (2021)
 
 
- <br
-   <br>>
+ <br>
+   <br>
 
 
 ## Data Analysis Projects
@@ -24,7 +24,7 @@
   
 **Skills:** Python, Data Preparation, Data Analysis, Visualizations (Including timelines, combined horizontal barplot, histograms, boxplots. correlation matrix).  
 ###### See project and code: [Global Air Pollution code, visualizations and insights](https://github.com/ToriiX/AirPollutionEDA/blob/main/WHO_global_air_pollution.ipynb)
-
+ <br>
 <p float="left">
   <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/0f176e9e-e6c7-4fd9-be2c-3ee4acacf328" width="400" />
 </p>
@@ -34,7 +34,7 @@
 
 **Skills:** Python, Data Preparation and Manipulation, Data Analysis including Correlation Analysis, Customized Data Visualization.
 ###### See project and code: [IUCN Red List Assessment code, visualizations and insights](https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/The%20IUCN%20Red%20List%20-%20An%20Analysis.ipynb)
-
+ <br>
 <p float="left">
   <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/bd3b2e82-2768-41bf-8f5b-cea2b4558350" width="400" />
 </p>
@@ -43,18 +43,20 @@
 ### Mini project: Rocket alarms (flight alarms) in Israel
 **Goal:** Explore the dataset and gain insights
 ###### See project and code: [View](https://github.com/ToriiX/miniprojects/blob/main/Rocketalarms.ipynb)
-
+ <br>
 <p float="left">
   <img src="https://github.com/user-attachments/assets/41a398ed-f914-46ee-acd2-1c02ab16b9a0" width="150" />
 </p>
 
  <br>
+
 ### Iris Dataset
 **Goal:** Explore species feature variation within (intra) and between (inter) three species of Iris found in North America. The results can be used for species classification and further development of Machine Learning models for classification.
 
 **Skills:** Python, Data Preparation, Data Analysis, Correlation Matrices, and various Visualizations (including heatmap, violin plot, bar plots, boxplots, KDE plot) and PCA.
 
 ###### See project and code: [Iris Data Exploration code, visualizations and insights](https://github.com/ToriiX/Iris__dataset_EDA/blob/main/Iris_extended_dataset_EDA_PCA_analysis_%20.ipynb)
+ <br>
 
 <p float="left">
   <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/9faef316-a1a0-46e6-83ff-d67b21c441a5" width="400" />
@@ -68,6 +70,7 @@
 **Skills:** Data Preparation and Manipulation, Data Analysis, Data Visualization.
 
 ###### See project and code: [View case study with code](https://github.com/ToriiX/Fitnessapp/blob/main/Bella_Beat_CaseStudy.ipynb)
+ <br>
 
 <p float="left">
   <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/f738fc9e-f720-4d12-a5ac-05d3f3113ccd" width="400" />
@@ -75,8 +78,10 @@
 
 
  <br>
+
 ### SQL
  <br>
+
 ### Famous paintings
 **Goal:** Explore the data and find insights while practising my SQL skills.
 - Imported tables to MySQL database using Python
@@ -110,12 +115,13 @@
 
 **Skills:** Python, Data Visualization and Figure Customization.
 ##### See figure and code: [Barplot paper 1(below),](https://github.com/ToriiX/Maps/blob/main/Conservation_paper_figure.ipynb)[     Various plots paper 2](https://github.com/ToriiX/Maps/blob/main/UtilityPaper_figs.ipynb)
-
+ <br>
 <p float="left">
   <img src="https://github.com/user-attachments/assets/131783f0-f3a7-4cba-87b5-c4d4069aa036" width="350" />
 </p>
  <br>
   <br>
+
 ### Certificates:
 - 2024 Tableau Certified Data Analyst Training (Udemy, current)
 - The complete SQL Masterclass 2024 (Udemy, 2024)
