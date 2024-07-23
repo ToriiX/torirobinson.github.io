@@ -162,4 +162,3 @@
 (Projects involving Tableau will be added to the portfolio) 
 
 
-**Contact:** <a href="mailto:torirobinson381@gmail.com">Email me</a>
