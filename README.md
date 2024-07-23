@@ -18,9 +18,6 @@
 ## Data Analysis Projects
 
 
-### Python:
-
-
  <br>
  
 ### Global Air Pollution (WHO)
