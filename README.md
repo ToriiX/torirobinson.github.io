@@ -20,7 +20,7 @@
 ## Index
 
 1. [Global Air Pollution (WHO)](#global-air-pollution-who)
-2. [IUCN Red List](#iucn-red-list)
+2. [IUCN Red List of Threatened Species](#iucn-red-list-of-threatened-species)
 3. [Mini project: Rocket alarms (flight alarms) in Israel](#mini-project-rocket-alarms-flight-alarms-in-israel)
 4. [Iris Dataset](#iris-dataset)
 5. [Womens Fitness App](#womens-fitness-app)
@@ -43,7 +43,8 @@
   <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/0f176e9e-e6c7-4fd9-be2c-3ee4acacf328" width="400" />
 </p>
  <br>
-### IUCN Red List
+ 
+### IUCN Red List of Threatened Species
 **Goal:** To investigate the overall comprehensiveness of the Red List, and if there are considerations that need to be taken if using the list as a guideline for wildlife conservation actions and measures.
 
 **Skills:** Python, Data Preparation and Manipulation, Data Analysis including Correlation Analysis, Customized Data Visualization.
