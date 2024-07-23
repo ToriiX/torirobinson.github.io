@@ -48,7 +48,8 @@
 **Goal:** To investigate the overall comprehensiveness of the Red List, and if there are considerations that need to be taken if using the list as a guideline for wildlife conservation actions and measures.
 
 **Skills:** Python, Data Preparation and Manipulation, Data Analysis including Correlation Analysis, Customized Data Visualization.
-#### See project and code: [IUCN Red List Assessment code, visualizations and insights](https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/The%20IUCN%20Red%20List%20-%20An%20Analysis.ipynb)
+#### View insights and graphs: [Here](https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/README.md)
+#### View code: [IUCN Red List Assessment code, visualizations and insights](https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/The%20IUCN%20Red%20List%20-%20An%20Analysis.ipynb)
  <br>
 <p float="left">
   <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/bd3b2e82-2768-41bf-8f5b-cea2b4558350" width="400" />
