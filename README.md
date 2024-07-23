@@ -37,6 +37,14 @@
 </p>
 
 
+### Mini project: Rocket alarms (flight alarms) in Israel
+**Goal:** Explore the dataset and gain insights
+###### See project and code: [View](https://github.com/ToriiX/miniprojects/blob/main/Rocketalarms.ipynb)
+
+<p float="left">
+  <img src="https://github.com/ToriiX/miniprojects/blob/main/unnamed.png" width="150" />
+</p>
+
 
 ### Iris Dataset
 **Goal:** Explore species feature variation within (intra) and between (inter) three species of Iris found in North America. The results can be used for species classification and further development of Machine Learning models for classification.
@@ -62,14 +70,6 @@
   <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/f738fc9e-f720-4d12-a5ac-05d3f3113ccd" width="400" />
 </p>
 
-
-### Mini project: Rocket alarms (flight alarms) in Israel
-**Goal:** Explore the dataset and gain insights
-###### See project and code: [View](https://github.com/ToriiX/miniprojects/blob/main/Rocketalarms%20.ipynb)
-
-<p float="left">
-  <img src="https://github.com/ToriiX/miniprojects/blob/main/unnamed.png" width="150" />
-</p>
 
 
 
