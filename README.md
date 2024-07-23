@@ -106,7 +106,7 @@
 
 **Skills:** Creating database and tables, PostgreSQL
 
-#### Short project description and code:[View](https://github.com/ToriiX/teaching/blob/main/README.md)
+#### Short project description and code: [View](https://github.com/ToriiX/teaching/blob/main/README.md)
 
  <br>
  
