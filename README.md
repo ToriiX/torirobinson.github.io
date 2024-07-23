@@ -21,11 +21,11 @@
 
 1. [Global Air Pollution (WHO)](#global-air-pollution-who)
 2. [IUCN Red List of Threatened Species](#iucn-red-list-of-threatened-species)
-3. [Mini project: Rocket alarms (flight alarms) in Israel](#mini-project-rocket-alarms-flight-alarms-in-israel)
+3. [Mini project: Rocket Alarms (flight alarms) in Israel](#mini-project-rocket-alarms-flight-alarms-in-israel)
 4. [Iris Dataset](#iris-dataset)
 5. [Womens Fitness App](#womens-fitness-app)
-6. [SQL: Famous paintings](#sql-famous-paintings)
-7. [SQL: GreenCircles SQL exercise](#sql-greencircles-sql-exercise)
+6. [SQL: Famous Paintings](#sql-famous-paintings)
+7. [SQL: GreenCircles exercise](#sql-greencircles-exercise)
 8. [Scientific Figures: Sampling maps of Kenya](#scientific-figures-sampling-maps-of-kenya)
 9. [Scientific Figures: Data figures for papers](#scientific-figures-data-figures-for-papers)
 10. [Certificates](#certificates)
@@ -56,7 +56,7 @@
 
  <br>
 
-### Mini project: Rocket alarms (flight alarms) in Israel
+### Mini project: Rocket Alarms (flight alarms) in Israel
 **Goal:** Explore the dataset and gain insights
 #### See project and code: [View](https://github.com/ToriiX/miniprojects/blob/main/Rocketalarms.ipynb)
 
@@ -99,7 +99,7 @@
 ### SQL:
  <br>
 
-### Famous paintings
+### Famous Paintings
 **Goal:** Explore the data and find insights while practising my SQL skills.
 - Imported tables to MySQL database using Python
 - Joined tables and explored data on famous paintings using MySQL
@@ -108,7 +108,8 @@
 #### See project and code: [Art Paintings insights and code](https://github.com/ToriiX/SQL-Art_Paintings)
 
  <br>
-### GreenCircles SQL exercise
+ 
+### GreenCircles Exercise
 **Goal:** Explore the data and find insights while practising my SQL skills in PostgreSQL.
 
 **Skills:** Intermediate to advanced SQL queries.
@@ -132,6 +133,7 @@
 **Goal:** Create a Figure showing the results from a questionnaire for use in scientific papers.
 
 **Skills:** Python, Data Visualization and Figure Customization.
+
 #### See figure and code: [Barplot paper 1(below),](https://github.com/ToriiX/Maps/blob/main/Conservation_paper_figure.ipynb)[     Various plots paper 2](https://github.com/ToriiX/Maps/blob/main/UtilityPaper_figs.ipynb)
  <br>
 <p float="left">
