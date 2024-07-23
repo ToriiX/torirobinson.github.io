@@ -17,7 +17,6 @@
 
 ## Data Analysis Projects
 
-<br>
 
 ### Python:
 
@@ -45,9 +44,11 @@
 </p>
 
  <br>
+
 ### Mini project: Rocket alarms (flight alarms) in Israel
 **Goal:** Explore the dataset and gain insights
 ###### See project and code: [View](https://github.com/ToriiX/miniprojects/blob/main/Rocketalarms.ipynb)
+
  <br>
 <p float="left">
   <img src="https://github.com/user-attachments/assets/41a398ed-f914-46ee-acd2-1c02ab16b9a0" width="150" />
