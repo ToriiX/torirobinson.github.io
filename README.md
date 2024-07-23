@@ -42,7 +42,7 @@
 ###### See project and code: [View](https://github.com/ToriiX/miniprojects/blob/main/Rocketalarms.ipynb)
 
 <p float="left">
-  <img src="https://github.com/ToriiX/miniprojects/blob/main/unnamed.png" width="150" />
+  <img src="https://github.com/user-attachments/assets/41a398ed-f914-46ee-acd2-1c02ab16b9a0" width="150" />
 </p>
 
 
