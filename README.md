@@ -61,7 +61,7 @@
 ### Rocket Alarms (flight alarms) in Israel
 **Goal:** Explore the dataset and gain insights. Mini project.
 #### View insights and graphs: [Here](https://github.com/ToriiX/miniprojects/blob/main/README.md)
-#### View code: [Here](https://github.com/ToriiX/miniprojects/blob/main/Rocketalarms.ipynb)
+#### View code: [Here](https://github.com/ToriiX/miniprojects/blob/main/Rocketalarms_israel.ipynb)
 
  <br>
 <p float="left">
