@@ -186,7 +186,7 @@ Tableau Profile: [view](https://public.tableau.com/app/profile/tori.robinson/viz
 
 <br>
 
-### Certificates
+## Certificates
 
 - 2024 Tableau Certified Data Analyst Training (Udemy, current)
 - The complete SQL Masterclass 2024 (Udemy, 2024)
