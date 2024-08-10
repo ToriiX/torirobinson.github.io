@@ -13,6 +13,9 @@
 
 ## Data Analysis Projects
 
+Tableau Profile: [view](https://public.tableau.com/app/profile/tori.robinson/vizzes)
+<br>
+
 ### Index
 
 1. [Global Air Pollution (WHO)](#global-air-pollution-who)
@@ -26,7 +29,7 @@
 9. [SQL: GreenCircles exercise](#greencircles-exercise)
 10. [Scientific Figures: Sampling maps of Kenya](#sampling-maps-of-kenya)
 11. [Scientific Figures: Data figures for papers](#data-figures-for-papers)
-12. [Certificates](#certificates)
+
 
 <br>
 
@@ -189,4 +192,4 @@
 - The complete SQL Masterclass 2024 (Udemy, 2024)
 - IBM Data Analyst Professional Certificated (Coursera, 2023)
 
-(Projects involving Tableau will be added to the portfolio)
+
