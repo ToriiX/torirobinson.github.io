@@ -13,7 +13,7 @@
 
 ## Data Analysis Projects
 
-Tableau Profile: [view](https://public.tableau.com/app/profile/tori.robinson/vizzes)
+Tableau Profile: [View here](https://public.tableau.com/app/profile/tori.robinson/vizzes)
 <br>
 
 ### Index
