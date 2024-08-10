@@ -107,7 +107,7 @@
 
 **Skills:** PostgreSQL, Tableau, Dashboards, Data Manipulation
 
-#### [View](https://github.com/ToriiX/SQL_various/blob/main/README.md)
+####[View](https://github.com/ToriiX/SQL_various/blob/main/README.md)
  <br>
 
 <p float="left">
@@ -117,6 +117,7 @@
 
 
  <br>
+ 
 ### Teaching Database
 
 **Goal:** Create a database to utilize in my personal teaching job.
@@ -156,6 +157,7 @@
 #### See QGIS map (left) + digitally drawn map(right) [Maps](https://github.com/ToriiX/Maps/blob/main/(a)%20(12).jpg)
 
  <br>
+ 
 ***Data figures for papers*** 
 
 **Goal:** Create a Figure showing the results from a questionnaire for use in scientific papers.
