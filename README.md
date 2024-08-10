@@ -20,12 +20,13 @@
 3. [Rocket Alarms (flight alarms) in Israel](#rocket-alarms-flight-alarms-in-israel)
 4. [Iris Dataset](#iris-dataset)
 5. [Womens Fitness App](#womens-fitness-app)
-6. [SQL: Teaching Database](#teaching-database)
-7. [SQL: Famous Paintings](#famous-paintings)
-8. [SQL: GreenCircles exercise](#greencircles-exercise)
-9. [Scientific Figures: Sampling maps of Kenya](#sampling-maps-of-kenya)
-10. [Scientific Figures: Data figures for papers](#data-figures-for-papers)
-11. [Certificates](#certificates)
+6. [SQL: Portland Bike Rental](#portland-bike-rental)
+7. [SQL: Teaching Database](#teaching-database)
+8. [SQL: Famous Paintings](#famous-paintings)
+9. [SQL: GreenCircles exercise](#greencircles-exercise)
+10. [Scientific Figures: Sampling maps of Kenya](#sampling-maps-of-kenya)
+11. [Scientific Figures: Data figures for papers](#data-figures-for-papers)
+12. [Certificates](#certificates)
 
 <br>
 
@@ -106,6 +107,24 @@
 
 <br>
 
+### SQL:
+
+### Portland Bike Rental
+
+**Goal:** Practice combining SQL and Tableau for data analysis.
+
+**Skills:** PostgreSQL, Tableau, Dashboards, Data Manipulation
+
+#### [View](https://github.com/ToriiX/SQL_various/blob/main/README.md)
+
+<br>
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/54493c16-e2e8-4d69-abe0-f00d453192bb" width="400" />
+</p>
+
+<br>
+
 ### Teaching Database
 
 **Goal:** Create a database to utilize in my personal teaching job.
@@ -163,14 +182,10 @@
 
 <br>
 
-### Tableau Public Profile: [View](https://public.tableau.com/app/profile/tori.robinson/vizzes)
-
-<br>
-
 ### Certificates
 
 - 2024 Tableau Certified Data Analyst Training (Udemy, current)
 - The complete SQL Masterclass 2024 (Udemy, 2024)
 - IBM Data Analyst Professional Certificated (Coursera, 2023)
 
-
+(Projects involving Tableau will be added to the portfolio)
