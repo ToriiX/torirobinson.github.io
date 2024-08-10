@@ -101,6 +101,14 @@
 
 ### SQL:
 
+### Portland Bike Rental
+
+**Goal:** Practice combining SQL and Tableau for data analysis.
+
+**Skills:** PostgreSQL, Tableau, Dashboards, Data Manipulation
+
+#### [View]https://github.com/ToriiX/SQL_various/blob/main/README.md
+
 ### Teaching Database
 
 **Goal:** Create a database to utilize in my personal teaching job.
