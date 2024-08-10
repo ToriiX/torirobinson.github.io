@@ -107,8 +107,16 @@
 
 **Skills:** PostgreSQL, Tableau, Dashboards, Data Manipulation
 
-#### [View]https://github.com/ToriiX/SQL_various/blob/main/README.md
+#### [View](https://github.com/ToriiX/SQL_various/blob/main/README.md)
+ <br>
 
+<p float="left">
+  <img src="![image](https://github.com/user-attachments/assets/54493c16-e2e8-4d69-abe0-f00d453192bb)
+" width="400" />
+</p>
+
+
+ <br>
 ### Teaching Database
 
 **Goal:** Create a database to utilize in my personal teaching job.
