@@ -191,7 +191,7 @@
 Tableau Profile: [View here](https://public.tableau.com/app/profile/tori.robinson/vizzes)
 
 ## Certificates
-
+- IBM Data Science Professional Certificate (Coursera, current)
 - 2024 Tableau Certified Data Analyst Training (Udemy, current)
 - The complete SQL Masterclass 2024 (Udemy, 2024)
 - IBM Data Analyst Professional Certificated (Coursera, 2023)
