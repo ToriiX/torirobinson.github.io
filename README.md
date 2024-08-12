@@ -13,21 +13,20 @@
 
 ## Data Analysis Projects
 
-Tableau Profile: [View here](https://public.tableau.com/app/profile/tori.robinson/vizzes)
 <br>
 
 ### Index
 
 1. [Global Air Pollution (WHO)](#global-air-pollution-who)
 2. [IUCN Red List of Threatened Species](#iucn-red-list-of-threatened-species)
-3. [Rocket Alarms (flight alarms) in Israel](#rocket-alarms-flight-alarms-in-israel)
-4. [Iris Dataset](#iris-dataset)
+3. [Iris Dataset](#iris-dataset)
+4. [Rocket Alarms (flight alarms) in Israel](#rocket-alarms-flight-alarms-in-israel)
 5. [Womens Fitness App](#womens-fitness-app)
 6. [SQL: Portland Bike Rental](#portland-bike-rental)
 7. [SQL: Teaching Database](#teaching-database)
 8. [SQL: Famous Paintings](#famous-paintings)
 9. [SQL: GreenCircles exercise](#greencircles-exercise)
-10. [Scientific Figures: Sampling maps of Kenya](#sampling-maps-of-kenya)
+10. [Sampling maps of Kenya](#sampling-maps-of-kenya)
 11. [Scientific Figures: Data figures for papers](#data-figures-for-papers)
 
 
@@ -64,19 +63,6 @@ Tableau Profile: [View here](https://public.tableau.com/app/profile/tori.robinso
 
 <br>
 
-### Rocket Alarms (flight alarms) in Israel
-
-**Goal:** Explore the dataset and gain insights. Mini project.
-#### View insights and graphs: [Here](https://github.com/ToriiX/miniprojects/blob/main/README.md)
-#### View code: [Here](https://github.com/ToriiX/miniprojects/blob/main/Rocket_alarms_israel%20(1).ipynb)
-
-<br>
-
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/41a398ed-f914-46ee-acd2-1c02ab16b9a0" width="150" />
-</p>
-
-<br>
 
 ### Iris Dataset
 
@@ -90,6 +76,22 @@ Tableau Profile: [View here](https://public.tableau.com/app/profile/tori.robinso
 
 <p float="left">
   <img src="https://github.com/ToriiX/torirobinson.github.io/assets/156717220/9faef316-a1a0-46e6-83ff-d67b21c441a5" width="400" />
+</p>
+
+<br>
+
+
+
+### Rocket Alarms (flight alarms) in Israel
+
+**Goal:** Explore the dataset and gain insights. Mini project.
+#### View insights and graphs: [Here](https://github.com/ToriiX/miniprojects/blob/main/README.md)
+#### View code: [Here](https://github.com/ToriiX/miniprojects/blob/main/Rocket_alarms_israel%20(1).ipynb)
+
+<br>
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/41a398ed-f914-46ee-acd2-1c02ab16b9a0" width="150" />
 </p>
 
 <br>
@@ -185,6 +187,8 @@ Tableau Profile: [View here](https://public.tableau.com/app/profile/tori.robinso
 </p>
 
 <br>
+
+Tableau Profile: [View here](https://public.tableau.com/app/profile/tori.robinson/vizzes)
 
 ## Certificates
 
