@@ -164,17 +164,17 @@
 
 ### Sampling Maps of Kenya
 
-**Goal:** Create a customized map containing data sampling locations and flora regions for use in a scientific paper.
+**Goal:** Practice creating a customized map containing data sampling locations and flora regions.
 
 **Skills:** Python, Loading data locations into maps, Figure Layers, Geographical Data, QGIS, Digital Drawing.
 #### See map variations and code: [Sampling Maps](https://github.com/ToriiX/Maps/blob/main/kenya_maps.ipynb)
-#### See QGIS map (left) + digitally drawn map(right) [Maps](https://github.com/ToriiX/Maps/blob/main/(a)%20(12).jpg)
+
 
 <br>
 
 ### Data Figures for Papers
 
-**Goal:** Create a Figure showing the results from a questionnaire for use in scientific papers.
+**Goal:** Create figures for scientific papers.
 
 **Skills:** Python, Data Visualization and Figure Customization.
 
