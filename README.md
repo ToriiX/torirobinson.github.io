@@ -22,12 +22,11 @@
 3. [Iris Dataset](#iris-dataset)
 4. [Rocket Alarms (flight alarms) in Israel](#rocket-alarms-flight-alarms-in-israel)
 5. [Womens Fitness App](#womens-fitness-app)
-6. [SQL: Portland Bike Rental](#portland-bike-rental)
-7. [SQL: Teaching Database](#teaching-database)
-8. [SQL: Famous Paintings](#famous-paintings)
-9. [SQL: GreenCircles exercise](#greencircles-exercise)
-10. [Sampling maps of Kenya](#sampling-maps-of-kenya)
-11. [Scientific Figures: Data figures for papers](#data-figures-for-papers)
+6. [Sampling maps of Kenya](#sampling-maps-of-kenya)
+7.[Scientific Figures: Data figures for papers](#data-figures-for-papers)
+8. [SQL: Portland Bike Rental](#portland-bike-rental)
+9. [SQL: Famous Paintings](#famous-paintings)
+10. [SQL: GreenCircles exercise](#greencircles-exercise)
 
 
 <br>
@@ -52,7 +51,7 @@
 **Goal:** To investigate the overall comprehensiveness of the Red List, and if there are considerations that need to be taken if using the list as a guideline for wildlife conservation actions and measures.
 
 **Skills:** Python, Data Preparation and Manipulation, Data Analysis including Correlation Analysis, Customized Data Visualization.
-#### View insights and graphs: [Here](https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/README.md)
+
 #### View code: [Here](https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/The%20IUCN%20Red%20List%20-%20An%20Analysis.ipynb)
 
 <br>
@@ -85,7 +84,7 @@
 ### Rocket Alarms (flight alarms) in Israel
 
 **Goal:** Explore the dataset and gain insights. Mini project.
-#### View insights and graphs: [Here](https://github.com/ToriiX/miniprojects/blob/main/README.md)
+
 #### View code: [Here](https://github.com/ToriiX/miniprojects/blob/main/Rocket_alarms_israel%20(1).ipynb)
 
 <br>
@@ -112,55 +111,6 @@
 
 <br>
 
-### SQL:
-
-### Portland Bike Rental
-
-**Goal:** Practice combining SQL and Tableau for data analysis.
-
-**Skills:** PostgreSQL, Tableau, Dashboards, Data Manipulation
-
-#### [View](https://github.com/ToriiX/SQL_various/blob/main/README.md)
-
-<br>
-
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/54493c16-e2e8-4d69-abe0-f00d453192bb" width="400" />
-</p>
-
-<br>
-<br>
-
-### Teaching Database
-
-**Goal:** Create a database to utilize in my personal teaching job.
-
-**Skills:** Creating database and tables, PostgreSQL
-
-#### Short project description and code: [View](https://github.com/ToriiX/teaching/blob/main/README.md)
-
-<br>
-
-### Famous Paintings
-
-**Goal:** Explore the data and find insights while practising my SQL skills.
-- Imported tables to MySQL database using Python
-- Joined tables and explored data on famous paintings using MySQL
-
-**Skills:** Loading data tables into a database in MySQL using Python, SQL (Joining tables, Selecting specific information, aggregation (sum, average etc.)).
-#### See project and code: [Art Paintings insights and code](https://github.com/ToriiX/SQL-Art_Paintings)
-
-<br>
-
-### GreenCircles Exercise
-
-**Goal:** Explore the data and find insights while practising my SQL skills in PostgreSQL.
-
-**Skills:** Intermediate to advanced SQL queries.
-
-#### See code: [GreenCircles code](https://github.com/ToriiX/SQL_pga/blob/main/GreenCircles.sql)
-
-<br>
 
 ### Sampling Maps of Kenya
 
@@ -185,6 +135,55 @@
 <p float="left">
   <img src="https://github.com/user-attachments/assets/131783f0-f3a7-4cba-87b5-c4d4069aa036" width="350" />
 </p>
+
+<br>
+
+### Phylogenetic tree design
+
+
+
+
+
+### SQL:
+
+### Portland Bike Rental
+
+**Goal:** Practice combining SQL and Tableau for data analysis.
+
+**Skills:** PostgreSQL, Tableau, Dashboards, Data Manipulation
+
+#### [View](https://github.com/ToriiX/SQL_various/blob/main/README.md)
+
+<br>
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/54493c16-e2e8-4d69-abe0-f00d453192bb" width="400" />
+</p>
+
+<br>
+<br>
+
+
+<br>
+
+### Famous Paintings
+
+**Goal:** Explore the data and find insights while practising my SQL skills.
+- Imported tables to MySQL database using Python
+- Joined tables and explored data on famous paintings using MySQL
+
+**Skills:** Loading data tables into a database in MySQL using Python, SQL (Joining tables, Selecting specific information, aggregation (sum, average etc.)).
+#### See project and code: [Art Paintings insights and code](https://github.com/ToriiX/SQL-Art_Paintings)
+
+<br>
+
+### GreenCircles Exercise
+
+**Goal:** Explore the data and find insights while practising my SQL skills in PostgreSQL.
+
+**Skills:** Intermediate to advanced SQL queries.
+
+#### See code: [GreenCircles code](https://github.com/ToriiX/SQL_pga/blob/main/GreenCircles.sql)
 
 <br>
 
