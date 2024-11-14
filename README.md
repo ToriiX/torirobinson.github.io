@@ -23,7 +23,7 @@
 4. [Rocket Alarms (flight alarms) in Israel](#rocket-alarms-flight-alarms-in-israel)
 5. [Womens Fitness App](#womens-fitness-app)
 6. [Sampling maps of Kenya](#sampling-maps-of-kenya)
-7.[Scientific Figures: Data figures for papers](#data-figures-for-papers)
+7. [Scientific Figures: Data figures](#data-figures-for-papers)
 8. [SQL: Portland Bike Rental](#portland-bike-rental)
 9. [SQL: Famous Paintings](#famous-paintings)
 10. [SQL: GreenCircles exercise](#greencircles-exercise)
