@@ -87,11 +87,7 @@
 
 #### View code: [Here](https://github.com/ToriiX/miniprojects/blob/main/Rocket_alarms_israel%20(1).ipynb)
 
-<br>
 
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/41a398ed-f914-46ee-acd2-1c02ab16b9a0" width="150" />
-</p>
 
 <br>
 
