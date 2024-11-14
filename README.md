@@ -117,6 +117,7 @@
 **Goal:** Practice creating a customized map containing data sampling locations and flora regions.
 
 **Skills:** Python, Loading data locations into maps, Figure Layers, Geographical Data, QGIS, Digital Drawing.
+
 #### See map variations and code: [Sampling Maps](https://github.com/ToriiX/Maps/blob/main/kenya_maps.ipynb)
 
 
@@ -140,6 +141,14 @@
 
 ### Phylogenetic tree design
 
+
+<br>
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/ae045eed-1c80-47d8-9b3b-1fd537d65b62" width="350" />
+</p>
+
+<br>
 
 
 
