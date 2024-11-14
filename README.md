@@ -161,9 +161,7 @@
 
 <br>
 
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/54493c16-e2e8-4d69-abe0-f00d453192bb" width="400" />
-</p>
+Tableau Profile with figures: [View here](https://public.tableau.com/app/profile/tori.robinson/vizzes)
 
 <br>
 <br>
@@ -192,7 +190,7 @@
 
 <br>
 
-Tableau Profile: [View here](https://public.tableau.com/app/profile/tori.robinson/vizzes)
+
 
 ## Certificates
 - IBM Data Science Professional Certificate (Coursera, current)
