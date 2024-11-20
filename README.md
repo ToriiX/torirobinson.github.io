@@ -4,7 +4,7 @@
 
 ***- I am driven by a passion for solving complex problems, using data to find insights and create compelling visualizations***
 
-- Data Analysis & Computational Biology
+- Data preparation, analysis & visuaization
  
 **Technical Skills:** Python, SQL (PostgreSQL, MySQL), Tableau
 
