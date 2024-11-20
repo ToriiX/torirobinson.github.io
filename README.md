@@ -4,7 +4,7 @@
 
 ***- I am driven by a passion for solving complex problems, using data to find insights and create compelling visualizations***
 
-- Data preparation, analysis & visuaization
+- Data preparation, analysis & visualization
  
 **Technical Skills:** Python, SQL (PostgreSQL, MySQL), Tableau
 
