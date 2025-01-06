@@ -31,8 +31,6 @@
 
 ## Data Analysis Projects
 
-<br>
-
 
 <br>
 
