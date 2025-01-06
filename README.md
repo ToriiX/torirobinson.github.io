@@ -16,9 +16,17 @@
 - Data Visualization 
 - Regression & Cluster Analysis
 
+<br>
 
 **Education:** M.Sc. Bioscience, University of Oslo (2021)
 
+<br>
+
+**Publications**
+2018-2025, Co-author of articles to be published concerning the plant genus Kalanchoe in Kenya.
+Molecular phylogeny and taxonomy of the genus Kalanchoe (Crassulaceae subfam. Kalanhoidae) using angiosperm 353; Focus on Kenyan taxa within the floral boundaries of tropical Africa. 
+Current conservation status of the genus Kalanchoe (Crassulaceae) in Kenya, East Africa (Bradleya Journal)
+Utility and ethnotaxonomy of the succulent plant genus Kalanchoe (Kalanchoidae; Crassulaceae) in Kenya, East Africa (Journal of East African Natural History)
 <br>
 
 ## Data Analysis Projects
