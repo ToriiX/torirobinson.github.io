@@ -108,7 +108,6 @@
 
 
 
-
 ### SQL:
 
 ### Portland Bike Rental
@@ -122,10 +121,6 @@
 <br>
 
 Tableau Profile with figures: [View here](https://public.tableau.com/app/profile/tori.robinson/vizzes)
-
-<br>
-<br>
-
 
 <br>
 
