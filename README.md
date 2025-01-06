@@ -4,9 +4,18 @@
 
 ***- I am driven by a passion for solving complex problems, using data to find insights and create compelling visualizations***
 
-- Data preparation, analysis & visualization
  
-**Technical Skills:** Python, SQL (PostgreSQL, MySQL), Tableau
+**Technical Skills:** 
+
+- Python(Pandas, Numpy,Matplotlib, Seaborn, Scikit-learn) 
+- SQL (filtering, joins, grouping, aggregating)
+- Microsoft Excel, Tableau
+
+- Data collection, cleaning, normalization and feature engineering. 
+- Exploratory Data Analysis (EDA)
+- Data Visualization 
+- Regression & Cluster Analysis
+
 
 **Education:** M.Sc. Bioscience, University of Oslo (2021)
 
@@ -15,19 +24,6 @@
 ## Data Analysis Projects
 
 <br>
-
-### Index
-
-1. [Global Air Pollution (WHO)](#global-air-pollution-who)
-2. [IUCN Red List of Threatened Species](#iucn-red-list-of-threatened-species)
-3. [Iris Dataset](#iris-dataset)
-4. [Rocket Alarms (flight alarms) in Israel](#rocket-alarms-flight-alarms-in-israel)
-5. [Womens Fitness App](#womens-fitness-app)
-6. [Sampling maps of Kenya](#sampling-maps-of-kenya)
-7. [Scientific Figures: Data figures](#data-figures-for-papers)
-8. [SQL: Portland Bike Rental](#portland-bike-rental)
-9. [SQL: Famous Paintings](#famous-paintings)
-10. [SQL: GreenCircles exercise](#greencircles-exercise)
 
 
 <br>
@@ -109,43 +105,6 @@
 <br>
 
 
-### Sampling Maps of Kenya
-
-**Goal:** Practice creating a customized map containing data sampling locations and flora regions.
-
-**Skills:** Python, Loading data locations into maps, Figure Layers, Geographical Data, QGIS, Digital Drawing.
-
-#### See map variations and code: [Sampling Maps](https://github.com/ToriiX/Maps/blob/main/kenya_maps.ipynb)
-
-
-<br>
-
-### Data Figures for Papers
-
-**Goal:** Create figures for scientific papers.
-
-**Skills:** Python, Data Visualization and Figure Customization.
-
-#### See figure and code: [Barplot paper 1(below),](https://github.com/ToriiX/Maps/blob/main/Conservation_paper_figure.ipynb)[     Various plots paper 2](https://github.com/ToriiX/Maps/blob/main/UtilityPaper_figs.ipynb)
-
-<br>
-
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/131783f0-f3a7-4cba-87b5-c4d4069aa036" width="350" />
-</p>
-
-<br>
-
-### Phylogenetic tree design
-
-
-<br>
-
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/ae045eed-1c80-47d8-9b3b-1fd537d65b62" width="350" />
-</p>
-
-<br>
 
 
 
