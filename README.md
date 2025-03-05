@@ -138,7 +138,7 @@ Tableau Profile with figures: [View here](https://public.tableau.com/app/profile
 
 <br>
 
-
+#### Some pop-science articles I have written: [Click here to access](https://medium.com/@tori.robinson)
 
 ## Certificates
 - IBM Data Science Professional Certificate (Coursera, current)
