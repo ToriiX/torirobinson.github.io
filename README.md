@@ -3,19 +3,7 @@
 *"Without data, you’re just another person with an opinion" - W. Edwards Deming*
 
  
-**Technical Skills:** 
-
-- Python(Pandas, Numpy,Matplotlib, Seaborn, Scikit-learn) 
-- SQL (filtering, joins, grouping, aggregating)
-- Microsoft Excel, Tableau
-
-- Data collection, cleaning, normalization and feature engineering. 
-- Exploratory Data Analysis (EDA)
-- Data Visualization 
-- Regression & Cluster Analysis
-
-<br>
-
+ת
 **Education:** M.Sc. Bioscience, University of Oslo (2021)
 
 <br>
