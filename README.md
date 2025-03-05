@@ -24,7 +24,6 @@ Direction: Biodiversity and Systematics, focusing on Phylogeny, Ethnobotany and 
 - Current conservation status of the genus *Kalanchoe* (Crassulaceae) in Kenya, East Africa (Bradleya Journal)
 - Utility and ethnotaxonomy of the succulent plant genus *Kalanchoe* (Kalanchoidae; Crassulaceae) in Kenya, East Africa (Journal of East African Natural History)
 <br>
-
 -Took part in fieldwork and data collection, was in charge of DNA extraction(modified CTAB and kits), provided feedback and created data figures and maps for all publications(Python and QGIS).
 
 <br>
