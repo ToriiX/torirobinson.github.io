@@ -1,11 +1,10 @@
 # Portfolio 
 
 *"Without data, you’re just another person with an opinion" - W. Edwards Deming*
-
- 
-ת<br>
+<br>
 **Education:** M.Sc. Bioscience, University of Oslo (2021)
 Direction: Biodiversity and Systematics, focusing on Phylogeny, Ethnobotany and Conservation. 
+
 
 <br>
 
