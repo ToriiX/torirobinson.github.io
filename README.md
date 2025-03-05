@@ -10,6 +10,8 @@
   <img src="https://github.com/user-attachments/assets/53a67fee-fb12-4589-b7b6-d0ec7115626a" width="900" />
 </p>
 
+<br>
+
 **Education:** M.Sc. Bioscience, University of Oslo (2021)
 Direction: Biodiversity and Systematics, focusing on Phylogeny, Ethnobotany and Conservation. 
 
