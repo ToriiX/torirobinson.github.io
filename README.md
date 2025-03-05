@@ -6,7 +6,6 @@
 
 <br>
 ![image](https://github.com/user-attachments/assets/53a67fee-fb12-4589-b7b6-d0ec7115626a)
-
 <br>
 
 **Education:** M.Sc. Bioscience, University of Oslo (2021)
