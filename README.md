@@ -31,12 +31,10 @@ Direction: Biodiversity and Systematics, focusing on Phylogeny, Ethnobotany and 
 
 East Africa is one of the main centres of species diversity within *Kalanchoë*, an important genus for maintaining ecosystem functioning in dry environments. Many species of *Kalanchoë* are also known for their ethnobotanical value, including for medicinal and ornamental use. However, little is known about the phylogenetic relationship among the species, as well as the ethnobotanical value of the genus in the region. The presented phylogenetic study included about 30% of all *Kalanchoë* species within the genus, whereof about half of the species native to continental Africa, and nearly 70 % of the native East African species. The study provides the first phylogeny of *Kalanchoë* estimated from nuclear regions using the universal Angiosperm 353 bait panel, as well as the first comprehensive ethnobotanical survey on the use of the genus in East Africa. The reconstructed phylogeny shows that East Africa hosts species of *Kalanchoë* with a high molecular diversity as they resolve in many different subclades, while the ethnobotanical findings are that the genus is a valuable medicinal plant in the region with widespread uses, predominantly used to treat a wide range of infections, inflammatory conditions, and to relieve pain. Nearly half of occurring species have known use, whereof the species K. densiflora was the most utilized with 40 % of all retrieved use-records. The findings make an important foundation for conservation, management, and further research on the genus. 
 
-![image](https://github.com/user-attachments/assets/10b3eb2c-da2e-4b8c-a15b-d687b4dc2290)
-
 
 <br>
 <p float="right">
-  <img src="https://github.com/user-attachments/assets/10b3eb2c-da2e-4b8c-a15b-d687b4dc2290)" width = 100/>
+  <img src="https://github.com/user-attachments/assets/10b3eb2c-da2e-4b8c-a15b-d687b4dc2290)" width = 200/>
 </p>
 
 
