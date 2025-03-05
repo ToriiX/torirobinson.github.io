@@ -2,7 +2,7 @@
 
 *"Without data, you’re just another person with an opinion" - W. Edwards Deming*
 
-
+- I enjoy researching and being creative
 <br>
 
 **Education:** M.Sc. Bioscience, University of Oslo (2021)
