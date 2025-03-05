@@ -36,7 +36,7 @@ East Africa is one of the main centres of species diversity within *Kalanchoë*,
 
 <br>
 <p float="right">
-  <img src="https://github.com/user-attachments/assets/10b3eb2c-da2e-4b8c-a15b-d687b4dc2290)" width = 200/>
+  <img src="https://github.com/user-attachments/assets/10b3eb2c-da2e-4b8c-a15b-d687b4dc2290)" width = 100/>
 </p>
 
 
