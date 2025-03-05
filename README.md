@@ -17,9 +17,8 @@ Direction: Biodiversity and Systematics, focusing on Phylogeny, Ethnobotany and 
 <br>
 - Took part in fieldwork and data collection, was in charge of DNA extraction(modified CTAB and kits), provided feedback and created data figures and maps for all publications(Python and QGIS).
 
-  <br>
+<br>
 
-    <br>
 
 **Here are a couple of small Data Analysis Projects I have done for fun:**
 
