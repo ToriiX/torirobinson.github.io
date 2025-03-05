@@ -3,7 +3,7 @@
 *"Without data, you’re just another person with an opinion" - W. Edwards Deming*
 
  
-ת
+ת<br>
 **Education:** M.Sc. Bioscience, University of Oslo (2021)
 Direction: Biodiversity and Systematics, focusing on Phylogeny, Ethnobotany and Conservation. 
 
@@ -17,10 +17,9 @@ Direction: Biodiversity and Systematics, focusing on Phylogeny, Ethnobotany and 
 <br>
 - Took part in fieldwork and data collection, was in charge of DNA extraction(modified CTAB and kits), provided feedback and created data figures and maps for all publications(Python and QGIS).
 
-- 
-## Here are a couple of smaller Data Analysis Projects I have done for fun:
+  <br>
+# Here are a couple of smaller Data Analysis Projects I have done for fun:
 
-<br>
 
 ### Global Air Pollution (WHO)
 
