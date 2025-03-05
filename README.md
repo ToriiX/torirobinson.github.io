@@ -15,7 +15,7 @@
 - Utility and ethnotaxonomy of the succulent plant genus *Kalanchoe* (Kalanchoidae; Crassulaceae) in Kenya, East Africa (Journal of East African Natural History)
 <br>
 
-## Data Analysis Projects
+## Here are a couple of smaller Data Analysis Projects I have done for fun:
 
 
 <br>
