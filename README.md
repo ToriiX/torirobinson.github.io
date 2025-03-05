@@ -1,4 +1,4 @@
-# Portfolio 
+
 
 *"Without data, you’re just another person with an opinion" - W. Edwards Deming*
 <br>
@@ -140,10 +140,5 @@ Tableau Profile with figures: [View here](https://public.tableau.com/app/profile
 
 #### Some pop-science articles I have written: [Click here to access](https://medium.com/@tori.robinson)
 
-## Certificates
-- IBM Data Science Professional Certificate (Coursera, current)
-- 2024 Tableau Certified Data Analyst Training (Udemy, current)
-- The complete SQL Masterclass 2024 (Udemy, 2024)
-- IBM Data Analyst Professional Certificated (Coursera, 2023)
 
 
