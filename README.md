@@ -2,9 +2,6 @@
 
 **TORI ROBINSON**
 
-<br>
-![Uploading ![Evusa FIGURE_5 (1)](https://github.com/user-attachments/assets/91a82c6f-85b9-4da8-9488-c9eac455bb2c)
-Evusa FIGURE w.JPG…]()
 
 
 
