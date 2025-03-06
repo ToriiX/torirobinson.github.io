@@ -1,9 +1,6 @@
 
 
-*"Without data, you’re just another person with an opinion" - W. Edwards Deming*
-
--I enjoy researching and being creative
-
+#Tori Robinson
 
 <br>
 <p float="center">
@@ -34,6 +31,8 @@ East Africa is one of the main centres of species diversity within *Kalanchoë*,
 
 
 <br>
+
+[Ethobotany figures](https://github.com/ToriiX/Statistical-figures-and-maps/blob/main/Utility%20of%20Kalanchoe%20in%20Kenya_.png)
 
 
 **Here are a couple of small Data Analysis Projects I have done for fun:**
@@ -118,42 +117,6 @@ East Africa is one of the main centres of species diversity within *Kalanchoë*,
 
 
 
-### SQL:
-
-### Portland Bike Rental
-
-**Goal:** Practice combining SQL and Tableau for data analysis.
-
-**Skills:** PostgreSQL, Tableau, Dashboards, Data Manipulation
-
-#### [View](https://github.com/ToriiX/SQL_various/blob/main/README.md)
-
-<br>
-
-Tableau Profile with figures: [View here](https://public.tableau.com/app/profile/tori.robinson/vizzes)
-
-<br>
-
-### Famous Paintings
-
-**Goal:** Explore the data and find insights while practising my SQL skills.
-- Imported tables to MySQL database using Python
-- Joined tables and explored data on famous paintings using MySQL
-
-**Skills:** Loading data tables into a database in MySQL using Python, SQL (Joining tables, Selecting specific information, aggregation (sum, average etc.)).
-#### See project and code: [Art Paintings insights and code](https://github.com/ToriiX/SQL-Art_Paintings)
-
-<br>
-
-### GreenCircles Exercise
-
-**Goal:** Explore the data and find insights while practising my SQL skills in PostgreSQL.
-
-**Skills:** Intermediate to advanced SQL queries.
-
-#### See code: [GreenCircles code](https://github.com/ToriiX/SQL_pga/blob/main/GreenCircles.sql)
-
-<br>
 
 #### Some pop-science articles I have written: [Click here to access](https://medium.com/@tori.robinson)
 
