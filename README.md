@@ -1,6 +1,5 @@
 
 
-**TORI ROBINSON**
 
 
 
@@ -32,7 +31,7 @@ East Africa is one of the main centres of species diversity within *Kalanchoë*,
 
 <br>
 
-[Ethobotany figures](https://github.com/ToriiX/Statistical-figures-and-maps/blob/main/Utility%20of%20Kalanchoe%20in%20Kenya_.png)
+[Ethnobotany figures](https://github.com/ToriiX/Statistical-figures-and-maps/blob/main/Utility%20of%20Kalanchoe%20in%20Kenya_.png)
 
 
 **Here are a couple of small Data Analysis Projects I have done for fun:**
